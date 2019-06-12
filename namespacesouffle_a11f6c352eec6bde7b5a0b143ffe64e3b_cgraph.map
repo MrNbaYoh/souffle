@@ -1,0 +1,5 @@
+<map id="souffle::isSymbolType" name="souffle::isSymbolType">
+<area shape="rect" id="node2" href="$classsouffle_1_1_type_environment.html#a66b0c5761bcf5248516f08310f3b0817" title="souffle::TypeEnvironment\l::getSymbolType" alt="" coords="241,5,422,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_type.html#ac0e65ae3329b48ff0f0ad4c1b179b438" title="souffle::Type::getTypeEnvironment" alt="" coords="212,71,451,98"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_type.html#ad6bc765552db5681b11744f1585554bf" title="souffle::Type::print" alt="" coords="499,13,636,39"/>
+</map>

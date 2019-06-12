@@ -1,0 +1,10 @@
+<map id="souffle::RamLogSize::equal" name="souffle::RamLogSize::equal">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_node.html#ae0434e9ab1012210478fa5cc4be181e4" title="Apply the mapper to all child nodes. " alt="" coords="225,5,403,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_statement.html#ae9ba060b11e4c99eb1c15c6c77a6de40" title="Create a clone (i.e. " alt="" coords="229,57,399,98"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_relation_statement.html#ae20c6bb019e4947e36a6c35a0766cbc8" title="Equality check for two RAM nodes. " alt="" coords="204,122,424,163"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_node.html#a7db0e61e8b80e51d76679159e6fd087d" title="Equality check for two RAM nodes. " alt="" coords="225,188,403,215"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ram_node.html#a940fc66ee98cfac7d61e2abbdd0967d6" title="Obtain list of all embedded child nodes. " alt="" coords="217,239,411,281"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ram_statement.html#abf179c184dfd5820a128ae66c05ac378" title="Pretty print with indentation. " alt="" coords="229,305,399,346"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_relation_statement.html#a93110734f0f992a2f9b1a1d492cef3ad" title="Get RAM relation. " alt="" coords="472,122,692,163"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ram_node.html#ac910cfab60e061179a24ba63882f6bb3" title="Print RAM node. " alt="" coords="496,247,668,273"/>
+</map>

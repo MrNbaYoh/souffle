@@ -1,0 +1,5 @@
+<map id="souffle::LVMGenerator::visitSwap" name="souffle::LVMGenerator::visitSwap">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_bin_relation_statement.html#a1c3920866a5815faeaa3eeeeaf4d79e4" title="Get first relation. " alt="" coords="216,5,456,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_relation.html#aff204de1a828d72e6e74337be4885ddd" title="Get name. " alt="" coords="261,71,411,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_bin_relation_statement.html#a6e574de80067e6beb5cc2b225daf535e" title="Get second relation. " alt="" coords="216,136,456,177"/>
+</map>

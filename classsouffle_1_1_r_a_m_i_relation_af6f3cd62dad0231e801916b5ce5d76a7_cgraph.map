@@ -1,0 +1,10 @@
+<map id="souffle::RAMIRelation::insert" name="souffle::RAMIRelation::insert">
+<area shape="rect" id="node2" href="$classsouffle_1_1_r_a_m_i_relation.html#a13b2a074a151d82d855cafd3ccc5c9c6" title="Get arity of relation. " alt="" coords="1040,83,1192,124"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_r_a_m_i_relation.html#a43667310351fc58a7319ef9b370032ee" title="Insert tuple. " alt="" coords="205,79,357,120"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_r_a_m_i_relation.html#a9972914e988414859aba4286002c851b" title="check whether a tuple exists in the relation " alt="" coords="405,96,557,137"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_r_a_m_i_index.html#a361c46dd8acaf2b7a269ef1b08a264dc" title="check whether tuple exists in index " alt="" coords="613,47,749,88"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_r_a_m_i_relation.html#aa665a76e3891146133a27990bdfe758e" title="get index for a given search signature. " alt="" coords="605,112,757,153"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_r_a_m_i_relation.html#a6251c05818542a12e9b2a461b3847728" title="Obtains a full index&#45;key for this relation. " alt="" coords="823,177,975,219"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_r_a_m_i_relation.html#a46062b83cb3231baecc78d1fd0e66837" title="get index for a given order. " alt="" coords="823,47,975,88"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_min_index_selection.html#a97816e75d99d7d7cfdff2a7912953e6f" title="Get index for a search " alt="" coords="805,112,992,153"/>
+</map>

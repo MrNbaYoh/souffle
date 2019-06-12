@@ -1,0 +1,9 @@
+<map id="souffle::DebugReporter::transform" name="souffle::DebugReporter::transform">
+<area shape="rect" id="node2" href="$classsouffle_1_1_debug_report.html#a4e6fe0a6d9854ce570d008772daa9aba" title="souffle::DebugReport\l::addSection" alt="" coords="245,5,400,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_debug_report_section.html#af5d32516978098bf5bf4df8b0606e2c1" title="souffle::DebugReportSection\l::DebugReportSection" alt="" coords="221,71,424,112"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_translation_unit.html#a2c05c0d93e34800167034b1aa423c4a0" title="get debug report " alt="" coords="229,136,416,177"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#a1c65551944c7ecf6f44ec851b49bdbb0" title="souffle::now" alt="" coords="274,202,371,229"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_debug_report_section.html#aba41933dd6d0ff275341ca3fc651b901" title="Outputs the HTML code for the index to the given stream, consisting of a link to the section body fol..." alt="" coords="472,12,675,53"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_debug_report_section.html#aafbec062168aa2e7e09bf774f7ef6c42" title="Outputs the HTML code for the title header to the given stream. " alt="" coords="723,100,925,141"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_debug_report_section.html#a5afeb8a8592a651aacf9fa1e08e9ac51" title="Outputs the HTML code for the content of the section to the given stream, consisting of the title hea..." alt="" coords="472,129,675,171"/>
+</map>

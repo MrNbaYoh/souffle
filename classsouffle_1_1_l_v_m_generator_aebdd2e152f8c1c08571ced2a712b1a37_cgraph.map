@@ -1,0 +1,7 @@
+<map id="souffle::LVMGenerator::visitFact" name="souffle::LVMGenerator::visitFact">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_relation.html#a4b8c28fa5818f930e0d3149cd4a50b8b" title="souffle::RamRelation\l::getArity" alt="" coords="251,5,401,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_relation.html#aff204de1a828d72e6e74337be4885ddd" title="Get name. " alt="" coords="251,71,401,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_relation_statement.html#a93110734f0f992a2f9b1a1d492cef3ad" title="Get RAM relation. " alt="" coords="216,136,436,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_fact.html#ae3214d4be302d4df5c414591a309ae96" title="Get arguments of fact. " alt="" coords="227,202,425,229"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="484,202,628,229"/>
+</map>

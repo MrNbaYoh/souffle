@@ -1,0 +1,6 @@
+<map id="souffle::WriteFileCSV" name="souffle::WriteFileCSV">
+<area shape="rect" id="node2" href="$classsouffle_1_1_write_stream_c_s_v.html" title="{souffle::WriteStreamCSV\n||# getDelimiter()\l}" alt="" coords="5,579,184,656"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_write_stream.html" title="{souffle::WriteStream\n||+ writeAll()\l+ writeNext()\l+ writeSize()\l+ WriteStream()\l+ ~WriteStream()\l# writeNext()\l# writeNextTuple()\l# writeNullary()\l# writeSize()\l}" alt="" coords="209,520,359,715"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_symbol_table.html" title="Global pool of re&#45;usable strings. " alt="" coords="268,189,431,443"/>
+<area shape="rect" id="node8" href="$structsouffle_1_1_lock.html" title="A small utility class for implementing simple locks. " alt="" coords="299,5,400,127"/>
+</map>

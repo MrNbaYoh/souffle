@@ -1,0 +1,4 @@
+<map id="souffle::AstAtom::equal" name="souffle::AstAtom::equal">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a961b0d79be71a35f0b60aeedf212fe4a" title="A function testing whether two vector of pointers are referencing to equivalent targets. " alt="" coords="224,5,384,32"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#a71900d5ac92d70a4132fff4e280dd1cd" title="A function testing whether two sets are equal (same set of elements). " alt="" coords="432,5,539,32"/>
+</map>

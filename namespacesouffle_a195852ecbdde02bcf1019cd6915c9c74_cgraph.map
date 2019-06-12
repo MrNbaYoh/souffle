@@ -1,0 +1,8 @@
+<map id="souffle::reorderClauseWithSips" name="souffle::reorderClauseWithSips">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a1a100388da808cd03916e5446ef9644c" title="Finds the new ordering of a vector of atoms after the given SIPS is applied. " alt="" coords="273,9,406,36"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_clause.html#a349d1209cf619aaf6250c91e2cb0041d" title="Obtains a list of contained body&#45;atoms. " alt="" coords="503,57,639,98"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_clause.html#af03a18e982fbce1bb3866c18c5da192e" title="Obtains the execution plan associated to this clause or null if there is none. " alt="" coords="269,113,409,154"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_clause.html#a8c8bb94c830fe6b6ae48f7b88c161585" title="Re&#45;orders atoms to be in the given order. " alt="" coords="271,178,407,219"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_atom.html#a11ba399d723b5f1135a35e47e51e1bad" title="Provides access to the list of arguments of this atom. " alt="" coords="457,5,685,32"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="733,35,877,61"/>
+</map>

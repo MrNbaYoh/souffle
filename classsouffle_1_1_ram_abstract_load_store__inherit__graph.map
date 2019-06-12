@@ -1,0 +1,7 @@
+<map id="souffle::RamAbstractLoadStore" name="souffle::RamAbstractLoadStore">
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_load.html" title="Load data into a relation. " alt="" coords="5,756,137,877"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_store.html" title="Store data of a relation. " alt="" coords="162,756,298,877"/>
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_relation_statement.html" title="RAM Statements with a single relation. " alt="" coords="40,403,260,539"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_statement.html" title="Abstract class for RAM statements. " alt="" coords="65,248,235,355"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_node.html" title="RamNode is a superclass for all RAM IR classes. " alt="" coords="80,5,220,200"/>
+</map>

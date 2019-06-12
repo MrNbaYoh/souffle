@@ -1,0 +1,11 @@
+<map id="souffle::RamIndexAnalysis::run" name="souffle::RamIndexAnalysis::run">
+<area shape="rect" id="node2" href="$classsouffle_1_1_min_index_selection.html#a2055d17d6da3d4d464ae9c7c07a8ed67" title="Add new key to an Index Set " alt="" coords="273,5,460,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_min_index_selection.html#a62b07af96716553ef49091c6c24a63aa" title="Get all indexes " alt="" coords="273,71,460,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_translation_unit.html#af537996409b1095c05e624f52d8eab70" title="souffle::RamTranslationUnit\l::getProgram" alt="" coords="269,136,464,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_min_index_selection.html#a74e212dcfead507ed85c09ef6b68ef65" title="Get searches " alt="" coords="273,201,460,243"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_min_index_selection.html#adb233b983fc7109512b63d3cdc57a2b4" title="insert a total order index " alt="" coords="273,267,460,308"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_min_index_selection.html#ab94b6f734df006e8c7886b3c41a3fb65" title="map the keys in the key set to lexicographical order " alt="" coords="273,332,460,373"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#a384e85f786c545758984fbf4c59e1016" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="285,398,448,425"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#ab6ba329441fe5a6af5ebb8cde167d66f" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="512,391,675,432"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_node.html#a3726392849b2a07142ba13bbd5fb16d2" title="Obtain a list of all embedded AST child nodes. " alt="" coords="723,391,909,432"/>
+</map>

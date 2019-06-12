@@ -1,0 +1,12 @@
+<map id="souffle::RamCondition" name="souffle::RamCondition">
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_abstract_existence_check.html" title="Abstract existence check for a tuple in a relation. " alt="" coords="116,395,347,575"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_conjunction.html" title="A conjunction of conditions. " alt="" coords="371,388,547,583"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ram_constraint.html" title="Evaluates a binary constraint with respect to two RamExpressions. " alt="" coords="572,373,739,597"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ram_emptiness_check.html" title="Emptiness check for a relation. " alt="" coords="763,403,969,568"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ram_false.html" title="{souffle::RamFalse\n||+ clone()\l+ print()\l+ RamFalse()\l}" alt="" coords="994,432,1127,539"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ram_negation.html" title="Negates a given condition. " alt="" coords="1152,403,1311,568"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ram_true.html" title="True value condition. " alt="" coords="1335,432,1461,539"/>
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_node.html" title="RamNode is a superclass for all RAM IR classes. " alt="" coords="796,5,936,200"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_existence_check.html" title="Existence check for a tuple(&#45;pattern) in a relation. " alt="" coords="5,653,207,759"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_provenance_existence_check.html" title="Provenance Existence check for a relation. " alt="" coords="231,645,482,767"/>
+</map>

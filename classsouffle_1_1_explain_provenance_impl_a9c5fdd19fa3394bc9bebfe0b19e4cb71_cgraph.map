@@ -1,0 +1,21 @@
+<map id="souffle::ExplainProvenanceImpl::explain" name="souffle::ExplainProvenanceImpl::explain">
+<area shape="rect" id="node2" href="$classsouffle_1_1_explain_provenance.html#afe3dba1974df98904fa9aeaf8fdceafd" title="souffle::ExplainProvenance\l::argsToNums" alt="" coords="494,5,686,47"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_explain_provenance_impl.html#af004f3bc9b9f311c5c14d26ff4fe4c18" title="souffle::ExplainProvenance\lImpl::explain" alt="" coords="245,336,437,377"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_explain_provenance_impl.html#a20e6140e3813b7d12fd687aceb9d9c47" title="souffle::ExplainProvenance\lImpl::findTuple" alt="" coords="494,71,686,112"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_souffle_program.html#a8d60868a2e93de1ccc7b09d140542d0d" title="souffle::SouffleProgram\l::getRelation" alt="" coords="753,289,924,331"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_symbol_table.html#ada9d8afe1219bf54d16507b424f512c6" title="Find the index of a symbol in the table, inserting a new symbol if it does not exist there already..." alt="" coords="763,5,915,47"/>
+<area shape="rect" id="node5" href="$structsouffle_1_1_lock.html#a0fe2edd3ac13a141851fa021716bae04" title="souffle::Lock::acquire" alt="" coords="983,78,1139,105"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_symbol_table.html#a3ada80bb01130f70001918c386d3ab21" title="Convenience method to place a new symbol in the table, if it does not exist, and return the index of ..." alt="" coords="985,5,1137,47"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_souffle_program.html#ad6101f590d4771ddbe712f9d3f5bbdd1" title="souffle::SouffleProgram\l::executeSubroutine" alt="" coords="505,588,675,629"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_relation.html#a8e8e6b38e1d621e9cccd365eaedbd7e1" title="souffle::Relation::\lgetArity" alt="" coords="525,136,655,177"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#a90eb741155c2a50d6028ac5cfb1bb64f" title="Helper Functions for Binary Functors. " alt="" coords="502,201,678,243"/>
+<area shape="rect" id="node12" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="543,267,637,294"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_explain_provenance.html#afcc886b098657afde5caf5933816ec6c" title="souffle::ExplainProvenance\l::numsToArgs" alt="" coords="494,420,686,461"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_symbol_table.html#a4f93dea7a8e4af02f28070548a652660" title="Find a symbol in the table by its index, note that this gives an error if the index is out of bounds..." alt="" coords="763,441,915,483"/>
+<area shape="rect" id="node17" href="$namespacesouffle.html#a673608e9453179d30f6607384f54463a" title="Splits a string given a delimiter. " alt="" coords="522,369,658,395"/>
+<area shape="rect" id="node18" href="$namespacesouffle.html#a399105b8de1698758c5b18bc9efca9fa" title="Converts symbolic representation of an operator to the operator. " alt="" coords="485,486,695,513"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_relation.html#aafe66b5dd0bb775432f884bc47741a52" title="souffle::Relation::\lgetSymbolTable" alt="" coords="773,588,904,629"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_explain_provenance.html#a39607562fc9100085a4bdf774aef9fe6" title="souffle::ExplainProvenance\l::printRelationOutput" alt="" coords="743,376,935,417"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_symbol_table.html#aedae4abdfc5f4d8aaa6fdd1ac3fb1f91" title="souffle::SymbolTable\l::size" alt="" coords="985,441,1137,483"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_symbol_table.html#a1313606eabb515cd46aec43cfb191da3" title="Finds the index of a symbol in the table, giving an error if it&#39;s not found. " alt="" coords="763,71,915,112"/>
+</map>

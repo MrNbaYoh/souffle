@@ -1,0 +1,4 @@
+<map id="souffle::LogicbloxConverter" name="souffle::LogicbloxConverter">
+<area shape="rect" id="node2" href="$structsouffle_1_1_ast_visitor.html" title="{souffle::AstVisitor\l\&lt; void, std::ostream &amp; \&gt;\n||+ operator()()\l+ visit()\l+ ~AstVisitor()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\land 7 more...\l}" alt="" coords="11,131,194,413"/>
+<area shape="rect" id="node3" href="$structsouffle_1_1ast__visitor__tag.html" title="A tag type required for the is_ast_visitor type trait to identify AstVisitors. " alt="" coords="20,5,185,83"/>
+</map>

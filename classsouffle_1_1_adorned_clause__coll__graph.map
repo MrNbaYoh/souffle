@@ -1,0 +1,6 @@
+<map id="souffle::AdornedClause" name="souffle::AdornedClause">
+<area shape="rect" id="node7" href="$classsouffle_1_1_src_location.html" title="A class describing a range in an input file. " alt="" coords="313,359,459,465"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_clause.html" title="Intermediate representation of a datalog clause. " alt="" coords="878,829,1059,1068"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_node.html" title="Abstract class for syntactic elements in a Datalog program. " alt="" coords="355,528,495,752"/>
+<area shape="rect" id="node8" href="$structsouffle_1_1_src_location_1_1_point.html" title="A class locating a single point in an input file. " alt="" coords="313,160,459,281"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="souffle::ComponentLookup::run" name="souffle::ComponentLookup::run">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_program.html#a326fddd8401f7a90c38a5ce3c2eb43c0" title="Obtains a list of all comprised components. " alt="" coords="295,5,443,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_component.html#a6db353176587bb732f2f1b6ff056fac9" title="souffle::AstComponent\l::getComponents" alt="" coords="285,71,453,112"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_translation_unit.html#a85862a5fcfecdf63c7367926cdedde23" title="get the AST program " alt="" coords="276,136,463,177"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#a384e85f786c545758984fbf4c59e1016" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="288,202,451,229"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="520,46,664,73"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#ab6ba329441fe5a6af5ebb8cde167d66f" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="511,195,673,236"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_node.html#a3726392849b2a07142ba13bbd5fb16d2" title="Obtain a list of all embedded AST child nodes. " alt="" coords="721,195,908,236"/>
+</map>

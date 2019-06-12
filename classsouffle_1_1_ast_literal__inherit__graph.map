@@ -1,0 +1,9 @@
+<map id="souffle::AstLiteral" name="souffle::AstLiteral">
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_atom.html" title="Subclass of Literal that represents the use of a relation either in the head or in the body of a Clau..." alt="" coords="5,447,145,759"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_constraint.html" title="Subclass of Literal that represents a logical constraint. " alt="" coords="169,542,328,663"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_negation.html" title="Subclass of Literal that represents a negated atom, * e.g., !parent(x,y). " alt="" coords="352,505,503,700"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_provenance_negation.html" title="Subclass of Literal that represents a negated atom, * e.g., !parent(x,y). " alt="" coords="527,505,754,700"/>
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_node.html" title="Abstract class for syntactic elements in a Datalog program. " alt="" coords="268,5,408,229"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_binary_constraint.html" title="Subclass of Constraint that represents a binary constraint e.g., x = y. " alt="" coords="36,807,235,1119"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_boolean_constraint.html" title="Subclass of Constraint that represents a constant &#39;true&#39; or &#39;false&#39; value. " alt="" coords="258,865,469,1060"/>
+</map>

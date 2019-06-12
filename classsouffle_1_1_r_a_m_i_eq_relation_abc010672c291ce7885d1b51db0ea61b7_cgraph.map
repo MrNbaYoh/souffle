@@ -1,0 +1,11 @@
+<map id="souffle::RAMIEqRelation::extend" name="souffle::RAMIEqRelation::extend">
+<area shape="rect" id="node2" href="$classsouffle_1_1_r_a_m_i_relation.html#af78dba4f385eb3cddf7d25843a0728e7" title="Extend tuple. " alt="" coords="221,5,373,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_r_a_m_i_relation.html#a43667310351fc58a7319ef9b370032ee" title="Insert tuple. " alt="" coords="221,71,373,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_r_a_m_i_relation.html#a9972914e988414859aba4286002c851b" title="check whether a tuple exists in the relation " alt="" coords="421,71,573,112"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_r_a_m_i_relation.html#aa665a76e3891146133a27990bdfe758e" title="get index for a given search signature. " alt="" coords="621,71,773,112"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_r_a_m_i_relation.html#a6251c05818542a12e9b2a461b3847728" title="Obtains a full index&#45;key for this relation. " alt="" coords="839,7,991,48"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_r_a_m_i_index.html#a361c46dd8acaf2b7a269ef1b08a264dc" title="check whether tuple exists in index " alt="" coords="629,136,765,177"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_r_a_m_i_relation.html#a46062b83cb3231baecc78d1fd0e66837" title="get index for a given order. " alt="" coords="839,72,991,113"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_min_index_selection.html#a97816e75d99d7d7cfdff2a7912953e6f" title="Get index for a search " alt="" coords="821,137,1008,179"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_r_a_m_i_relation.html#a13b2a074a151d82d855cafd3ccc5c9c6" title="Get arity of relation. " alt="" coords="1056,7,1208,48"/>
+</map>

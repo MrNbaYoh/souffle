@@ -1,0 +1,10 @@
+<map id="souffle::RAMIProgInterface::RAMIProgInterface" name="souffle::RAMIProgInterface::RAMIProgInterface">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_relation.html#acd6760acf6b69232fe1c138428ef803a" title="Get argument. " alt="" coords="275,5,425,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_relation.html#a1cb65694ecf51e073122caf9560d620c" title="Get Argument Type Qualifier. " alt="" coords="273,71,427,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_relation.html#a4b8c28fa5818f930e0d3149cd4a50b8b" title="souffle::RamRelation\l::getArity" alt="" coords="275,136,425,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_relation.html#aff204de1a828d72e6e74337be4885ddd" title="Get name. " alt="" coords="275,201,425,243"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_relation_statement.html#a93110734f0f992a2f9b1a1d492cef3ad" title="Get RAM relation. " alt="" coords="240,267,460,308"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#a384e85f786c545758984fbf4c59e1016" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="269,333,431,359"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#ab6ba329441fe5a6af5ebb8cde167d66f" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="508,325,671,367"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_node.html#a3726392849b2a07142ba13bbd5fb16d2" title="Obtain a list of all embedded AST child nodes. " alt="" coords="719,325,905,367"/>
+</map>

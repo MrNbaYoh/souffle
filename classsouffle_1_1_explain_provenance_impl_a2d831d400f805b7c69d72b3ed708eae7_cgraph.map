@@ -1,0 +1,4 @@
+<map id="souffle::ExplainProvenanceImpl::printRelationOutput" name="souffle::ExplainProvenanceImpl::printRelationOutput">
+<area shape="rect" id="node2" href="$classsouffle_1_1_souffle_program.html#a90cd5579baa81512a0137fac420a43e0" title="souffle::SouffleProgram\l::getSymbolTable" alt="" coords="263,5,434,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_write_cout_c_s_v_factory.html#aa22ab70ab0d132b42f40952cc7bd241f" title="souffle::WriteCoutCSVFactory\l::getWriter" alt="" coords="245,71,452,112"/>
+</map>

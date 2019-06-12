@@ -1,0 +1,51 @@
+<map id="souffle::RAMI::evalOp" name="souffle::RAMI::evalOp">
+<area shape="rect" id="node2" href="$classsouffle_1_1_r_a_m_i_context.html#ace060313b30c9b24ab81eb112a3e5188" title="souffle::RAMIContext\l::addReturnValue" alt="" coords="245,5,397,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="511,122,670,149"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_r_a_m_i.html#adc39d6d50a4876616b61b70f21ad6871" title="Evaluate conditions. " alt="" coords="237,759,406,786"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_r_a_m_i.html#ab05d6f1b1510a08427e8a3c56330fdc4" title="Evaluate value. " alt="" coords="509,305,673,331"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_r_a_m_i_relation.html#aa665a76e3891146133a27990bdfe758e" title="get index for a given search signature. " alt="" coords="779,173,931,215"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_r_a_m_i_relation.html#a13b2a074a151d82d855cafd3ccc5c9c6" title="Get arity of relation. " alt="" coords="515,239,667,280"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_r_a_m_i.html#a7bbe0b804dd0cc45417f435a1c076276" title="Get relation. " alt="" coords="500,1281,681,1307"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_ram_index_analysis.html#a93017a4fe7bac2720641afe80e0212f0" title="Get index signature for an Ram IndexOperation operation " alt="" coords="497,1383,684,1424"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1_ram_index_operation.html#ab91b3a831408669a9322412fa9790b1f" title="Get range pattern. " alt="" coords="755,1412,954,1453"/>
+<area shape="rect" id="node22" href="$namespacesouffle.html#aaaed06bbcb6b8efcfd2474b1c5d81aa3" title="Determines if an expression is undefined. " alt="" coords="763,1281,947,1307"/>
+<area shape="rect" id="node26" href="$classsouffle_1_1_r_a_m_i_context.html#a11b9511af62797d8c3a0adfe8864faed" title="souffle::RAMIContext\l::getArguments" alt="" coords="245,1484,397,1525"/>
+<area shape="rect" id="node27" href="$classsouffle_1_1_ram_relation.html#a4b8c28fa5818f930e0d3149cd4a50b8b" title="souffle::RamRelation\l::getArity" alt="" coords="246,1549,397,1591"/>
+<area shape="rect" id="node28" href="$classsouffle_1_1_ram_unpack_record.html#a0d07595d11a28bf0dfe1c1fd9b30eb51" title="Get arity of record. " alt="" coords="225,1615,417,1656"/>
+<area shape="rect" id="node29" href="$classsouffle_1_1_ram_abstract_choice.html#a3775d27e0ba34c359a58164c3aaf2776" title="Getter for the condition. " alt="" coords="222,1680,421,1721"/>
+<area shape="rect" id="node30" href="$classsouffle_1_1_ram_abstract_aggregate.html#aa19135c18e941752520bcb0dac80aeed" title="Get condition. " alt="" coords="210,1745,433,1787"/>
+<area shape="rect" id="node31" href="$classsouffle_1_1_ram_abstract_conditional.html#a837d0171cbb530f96a5d3bcf5c5d05d2" title="Get condition that must be satisfied. " alt="" coords="208,1811,435,1852"/>
+<area shape="rect" id="node32" href="$classsouffle_1_1_ram_abstract_aggregate.html#ac6bc493add313dc4c5c7d374757085f5" title="Get target expression. " alt="" coords="210,1876,433,1917"/>
+<area shape="rect" id="node33" href="$classsouffle_1_1_ram_unpack_record.html#a047e878eb9d1d3e4b9f6f4dab4ed8055" title="Get record expression. " alt="" coords="225,1941,417,1983"/>
+<area shape="rect" id="node34" href="$classsouffle_1_1_ram_abstract_aggregate.html#a13feaa74a0365bd7f158bc44cfb1044b" title="Get aggregation function. " alt="" coords="210,2007,433,2048"/>
+<area shape="rect" id="node35" href="$classsouffle_1_1_r_a_m_i.html#a8a00ac2c1b3eb1f67524bb339bfcae0d" title="Get Iteration Number. " alt="" coords="229,2072,413,2113"/>
+<area shape="rect" id="node36" href="$classsouffle_1_1_ram_nested_operation.html#aecd9e1a082f7ad54bea98bd6a6825352" title="Get nested operation. " alt="" coords="216,2137,427,2179"/>
+<area shape="rect" id="node37" href="$classsouffle_1_1_ram_nested_operation.html#ae6a3beff0632964944db3ffbb12fb88e" title="Get profile text. " alt="" coords="216,2203,427,2244"/>
+<area shape="rect" id="node38" href="$classsouffle_1_1_ram_relation_operation.html#a64ab83f16d939b4088b572b7dfb37067" title="Get search relation. " alt="" coords="214,2268,429,2309"/>
+<area shape="rect" id="node39" href="$classsouffle_1_1_ram_project.html#ab3226b4d0125ee14537333a258647e57" title="Get relation. " alt="" coords="249,2333,394,2375"/>
+<area shape="rect" id="node40" href="$classsouffle_1_1_r_a_m_i_context.html#a5b92a823d7c023ce1f0b52f04d61c8b1" title="souffle::RAMIContext\l::getReturnErrors" alt="" coords="245,2399,397,2440"/>
+<area shape="rect" id="node41" href="$classsouffle_1_1_r_a_m_i_context.html#a93a9f47e55755b518d20fa64c9dcea50" title="souffle::RAMIContext\l::getReturnValues" alt="" coords="245,2464,397,2505"/>
+<area shape="rect" id="node42" href="$classsouffle_1_1_ram_tuple_operation.html#a5ba589d8d0941f07eb19ae77f56e3357" title="Get identifier. " alt="" coords="223,2529,419,2571"/>
+<area shape="rect" id="node43" href="$classsouffle_1_1_ram_project.html#aa2353d1f5133523b4fff8aa0dd03a553" title="Get expressions. " alt="" coords="249,2595,394,2636"/>
+<area shape="rect" id="node44" href="$classsouffle_1_1_ram_subroutine_return_value.html#a18a781fa33ad621241ba366bf704d618" title="Getter for expressions. " alt="" coords="215,2660,427,2701"/>
+<area shape="rect" id="node45" href="$classsouffle_1_1_r_a_m_i_relation.html#a43667310351fc58a7319ef9b370032ee" title="Insert tuple. " alt="" coords="245,177,397,219"/>
+<area shape="rect" id="node46" href="$namespacesouffle.html#a23d62e96f3d7162806dc7d4d7798297a" title="Determines whether the given reference is the null reference encoding the absence of any nested recor..." alt="" coords="268,2726,375,2753"/>
+<area shape="rect" id="node47" href="$classsouffle_1_1_r_a_m_i_context.html#ad78de67a79d4914664a9731ce61a7429" title="souffle::RAMIContext\l::setArguments" alt="" coords="245,2777,397,2819"/>
+<area shape="rect" id="node48" href="$classsouffle_1_1_r_a_m_i_context.html#a14ae8d7eb55441fd4040cce771839f9a" title="souffle::RAMIContext\l::setReturnErrors" alt="" coords="245,2843,397,2884"/>
+<area shape="rect" id="node49" href="$classsouffle_1_1_r_a_m_i_context.html#aeec11041a87477722863ab67f2b7d7ff" title="souffle::RAMIContext\l::setReturnValues" alt="" coords="245,2908,397,2949"/>
+<area shape="rect" id="node50" href="$namespacesouffle.html#aedb9e5cd2a72ce6acebd8d3eb233a05d" title="A function obtaining a pointer to the tuple addressed by the given reference. " alt="" coords="262,2974,381,3001"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_r_a_m_i.html#ad2195495eef6d69868654f8854ff858f" title="Get symbol table. " alt="" coords="765,415,944,456"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_r_a_m_i_relation.html#a9972914e988414859aba4286002c851b" title="check whether a tuple exists in the relation " alt="" coords="515,173,667,215"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ram_conjunction.html#aca066729cf6b299eba85e38215d23d45" title="Get left&#45;hand side of conjunction. " alt="" coords="503,1099,679,1140"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ram_constraint.html#a77ca8a04240963878049dcdaa1236681" title="Get left&#45;hand side. " alt="" coords="507,1164,674,1205"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ram_relation.html#aff204de1a828d72e6e74337be4885ddd" title="Get name. " alt="" coords="515,407,666,448"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_ram_negation.html#afbcfd1bd6f274f6316e390dbb702b103" title="Get operand of negation. " alt="" coords="511,472,670,513"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ram_constraint.html#a4d732718d8c4f64e7c7a818abe5fb38a" title="Get operator symbol. " alt="" coords="507,589,674,631"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_ram_abstract_existence_check.html#a60ad09527407120c92b226ff104df177" title="Get relation. " alt="" coords="483,655,699,696"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_ram_emptiness_check.html#aa7a32175b95d55776238351dad8c6fb9" title="Get relation. " alt="" coords="487,720,694,761"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1_ram_conjunction.html#a71b5fcabc5d1f58d776c390eef40a76d" title="Get right&#45;hand side of conjunction. " alt="" coords="503,785,679,827"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_ram_constraint.html#abc721d8ea7edc7a7c1536bfacdcfa8e3" title="Get right&#45;hand side. " alt="" coords="507,851,674,892"/>
+<area shape="rect" id="node23" href="$classsouffle_1_1_ram_abstract_existence_check.html#ae60725426eb64e3140402b46c534108c" title="Get arguments of the tuple/pattern. " alt="" coords="747,939,963,980"/>
+<area shape="rect" id="node24" href="$classsouffle_1_1_ram_relation.html#a0f7f14f139dc77983c4cd535cd7daa5b" title="Is temporary relation (for semi&#45;naive evaluation) " alt="" coords="515,1033,666,1075"/>
+<area shape="rect" id="node25" href="$classsouffle_1_1_ram_index_analysis.html#a58e218d3d4711b6f27a2002c6fb45115" title="index signature of existence check resembles a total index " alt="" coords="497,968,684,1009"/>
+</map>

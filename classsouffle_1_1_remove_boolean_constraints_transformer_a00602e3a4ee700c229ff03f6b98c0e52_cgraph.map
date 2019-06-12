@@ -1,0 +1,9 @@
+<map id="souffle::RemoveBooleanConstraintsTransformer::transform" name="souffle::RemoveBooleanConstraintsTransformer::transform">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_program.html#a0a658e411394dfc93da0ab36e06d0101" title="Mutates this node. " alt="" coords="333,5,481,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_translation_unit.html#a85862a5fcfecdf63c7367926cdedde23" title="get the AST program " alt="" coords="313,71,500,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_program.html#a60fcb7d3a21a06be7b48f5849917a22b" title="Get all relations in the program. " alt="" coords="333,136,481,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_boolean_constraint.html#a731bf40d3a91cd847135e7967ccf15f5" title="souffle::AstBooleanConstraint\l::isTrue" alt="" coords="301,201,512,243"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#a384e85f786c545758984fbf4c59e1016" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="325,267,488,294"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#ab6ba329441fe5a6af5ebb8cde167d66f" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="560,260,723,301"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_node.html#a3726392849b2a07142ba13bbd5fb16d2" title="Obtain a list of all embedded AST child nodes. " alt="" coords="771,260,957,301"/>
+</map>

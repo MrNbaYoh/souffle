@@ -1,0 +1,27 @@
+<map id="souffle::RamLevelAnalysis::run" name="souffle::RamLevelAnalysis::run">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_level_analysis.html#abb6c2e310ec709eff5f35da43cdf9f5b" title="Get level of a RAM expression/condition. " alt="" coords="268,593,455,635"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_abstract_operator.html#ac49a42abebab2fb9b624427f876b2f0f" title="Get argument values. " alt="" coords="510,5,722,47"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_pack_record.html#afb91f1eff5cc6ca8390d2370d6c5140e" title="Get record arguments. " alt="" coords="529,71,703,112"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_abstract_choice.html#a3775d27e0ba34c359a58164c3aaf2776" title="Getter for the condition. " alt="" coords="517,136,715,177"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ram_abstract_aggregate.html#aa19135c18e941752520bcb0dac80aeed" title="Get condition. " alt="" coords="505,201,727,243"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ram_abstract_conditional.html#a837d0171cbb530f96a5d3bcf5c5d05d2" title="Get condition that must be satisfied. " alt="" coords="503,267,729,308"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ram_abstract_aggregate.html#ac6bc493add313dc4c5c7d374757085f5" title="Get target expression. " alt="" coords="505,332,727,373"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ram_unpack_record.html#a047e878eb9d1d3e4b9f6f4dab4ed8055" title="Get record expression. " alt="" coords="520,397,712,439"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ram_conjunction.html#aca066729cf6b299eba85e38215d23d45" title="Get left&#45;hand side of conjunction. " alt="" coords="528,463,704,504"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ram_constraint.html#a77ca8a04240963878049dcdaa1236681" title="Get left&#45;hand side. " alt="" coords="533,528,699,569"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_ram_negation.html#afbcfd1bd6f274f6316e390dbb702b103" title="Get operand of negation. " alt="" coords="537,593,695,635"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ram_index_operation.html#ab91b3a831408669a9322412fa9790b1f" title="Get range pattern. " alt="" coords="517,659,715,700"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_ram_conjunction.html#a71b5fcabc5d1f58d776c390eef40a76d" title="Get right&#45;hand side of conjunction. " alt="" coords="528,724,704,765"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_ram_constraint.html#abc721d8ea7edc7a7c1536bfacdcfa8e3" title="Get right&#45;hand side. " alt="" coords="533,789,699,831"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_ram_tuple_element.html#ad8ebdadf86fff84e6aca2cf34b1935f4" title="Get identifier. " alt="" coords="523,1051,709,1092"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_ram_abstract_existence_check.html#ae60725426eb64e3140402b46c534108c" title="Get arguments of the tuple/pattern. " alt="" coords="508,855,724,896"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_ram_project.html#aa2353d1f5133523b4fff8aa0dd03a553" title="Get expressions. " alt="" coords="543,920,689,961"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1_ram_subroutine_return_value.html#a18a781fa33ad621241ba366bf704d618" title="Getter for expressions. " alt="" coords="510,985,722,1027"/>
+<area shape="rect" id="node22" href="$namespacesouffle.html#a3194e440e935d0d6089f8fa6bf405086" title="A function packing a tuple of the given arity into a reference. " alt="" coords="565,1117,667,1143"/>
+<area shape="rect" id="node25" href="$namespacesouffle.html#aedb9e5cd2a72ce6acebd8d3eb233a05d" title="A function obtaining a pointer to the tuple addressed by the given reference. " alt="" coords="557,1174,675,1201"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="798,765,942,791"/>
+<area shape="rect" id="node18" href="$namespacesouffle.html#ad0e8debde5608979e041dd30e044612a" title="Valid C++ identifier, note that this does not ensure the uniqueness of identifiers returned..." alt="" coords="807,1058,933,1085"/>
+<area shape="rect" id="node23" href="$classsouffle_1_1detail_1_1_record_map.html#a50da37d2493c58782ba088e82d4d3708" title="Packs the given tuple – and may create a new reference if necessary. " alt="" coords="777,1109,963,1151"/>
+<area shape="rect" id="node24" href="$structsouffle_1_1_lock.html#a0fe2edd3ac13a141851fa021716bae04" title="souffle::Lock::acquire" alt="" coords="1011,1117,1167,1143"/>
+<area shape="rect" id="node26" href="$classsouffle_1_1detail_1_1_record_map.html#a69dd3a240de59e2570d6fc282cb267fe" title="Obtains a pointer to the tuple addressed by the given index. " alt="" coords="777,1175,963,1216"/>
+</map>

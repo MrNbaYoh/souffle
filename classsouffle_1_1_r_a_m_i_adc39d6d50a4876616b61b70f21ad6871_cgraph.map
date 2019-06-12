@@ -1,0 +1,51 @@
+<map id="souffle::RAMI::evalCond" name="souffle::RAMI::evalCond">
+<area shape="rect" id="node2" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="251,13,410,39"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_r_a_m_i.html#ab05d6f1b1510a08427e8a3c56330fdc4" title="Evaluate value. " alt="" coords="249,783,413,810"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_r_a_m_i.html#ad2195495eef6d69868654f8854ff858f" title="Get symbol table. " alt="" coords="516,1141,695,1183"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_symbol_table.html#a4f93dea7a8e4af02f28070548a652660" title="Find a symbol in the table by its index, note that this gives an error if the index is out of bounds..." alt="" coords="529,1272,681,1313"/>
+<area shape="rect" id="node28" href="$classsouffle_1_1_r_a_m_i_relation.html#a9972914e988414859aba4286002c851b" title="check whether a tuple exists in the relation " alt="" coords="255,1387,407,1428"/>
+<area shape="rect" id="node29" href="$classsouffle_1_1_r_a_m_i_relation.html#aa665a76e3891146133a27990bdfe758e" title="get index for a given search signature. " alt="" coords="529,1507,681,1548"/>
+<area shape="rect" id="node31" href="$classsouffle_1_1_r_a_m_i_relation.html#a13b2a074a151d82d855cafd3ccc5c9c6" title="Get arity of relation. " alt="" coords="1015,1387,1167,1428"/>
+<area shape="rect" id="node35" href="$classsouffle_1_1_ram_conjunction.html#aca066729cf6b299eba85e38215d23d45" title="Get left&#45;hand side of conjunction. " alt="" coords="243,1504,419,1545"/>
+<area shape="rect" id="node36" href="$classsouffle_1_1_ram_constraint.html#a77ca8a04240963878049dcdaa1236681" title="Get left&#45;hand side. " alt="" coords="247,1569,414,1611"/>
+<area shape="rect" id="node37" href="$classsouffle_1_1_ram_relation.html#aff204de1a828d72e6e74337be4885ddd" title="Get name. " alt="" coords="255,1635,406,1676"/>
+<area shape="rect" id="node38" href="$classsouffle_1_1_ram_negation.html#afbcfd1bd6f274f6316e390dbb702b103" title="Get operand of negation. " alt="" coords="251,1700,410,1741"/>
+<area shape="rect" id="node39" href="$classsouffle_1_1_ram_constraint.html#a4d732718d8c4f64e7c7a818abe5fb38a" title="Get operator symbol. " alt="" coords="247,1765,414,1807"/>
+<area shape="rect" id="node40" href="$classsouffle_1_1_r_a_m_i.html#a7bbe0b804dd0cc45417f435a1c076276" title="Get relation. " alt="" coords="240,1831,421,1858"/>
+<area shape="rect" id="node41" href="$classsouffle_1_1_ram_abstract_existence_check.html#a60ad09527407120c92b226ff104df177" title="Get relation. " alt="" coords="223,1883,439,1924"/>
+<area shape="rect" id="node42" href="$classsouffle_1_1_ram_emptiness_check.html#aa7a32175b95d55776238351dad8c6fb9" title="Get relation. " alt="" coords="227,1948,434,1989"/>
+<area shape="rect" id="node43" href="$classsouffle_1_1_ram_conjunction.html#a71b5fcabc5d1f58d776c390eef40a76d" title="Get right&#45;hand side of conjunction. " alt="" coords="243,2013,419,2055"/>
+<area shape="rect" id="node44" href="$classsouffle_1_1_ram_constraint.html#abc721d8ea7edc7a7c1536bfacdcfa8e3" title="Get right&#45;hand side. " alt="" coords="247,2079,414,2120"/>
+<area shape="rect" id="node45" href="$classsouffle_1_1_ram_index_analysis.html#a93017a4fe7bac2720641afe80e0212f0" title="Get index signature for an Ram IndexOperation operation " alt="" coords="237,64,424,105"/>
+<area shape="rect" id="node47" href="$namespacesouffle.html#aaaed06bbcb6b8efcfd2474b1c5d81aa3" title="Determines if an expression is undefined. " alt="" coords="513,71,697,98"/>
+<area shape="rect" id="node48" href="$classsouffle_1_1_ram_abstract_existence_check.html#ae60725426eb64e3140402b46c534108c" title="Get arguments of the tuple/pattern. " alt="" coords="497,123,713,164"/>
+<area shape="rect" id="node49" href="$classsouffle_1_1_ram_relation.html#a0f7f14f139dc77983c4cd535cd7daa5b" title="Is temporary relation (for semi&#45;naive evaluation) " alt="" coords="255,2144,406,2185"/>
+<area shape="rect" id="node50" href="$classsouffle_1_1_ram_index_analysis.html#a58e218d3d4711b6f27a2002c6fb45115" title="index signature of existence check resembles a total index " alt="" coords="237,181,424,223"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_number.html#aacb0691f5e91383df9a3b95726c00ef8" title="Get constant. " alt="" coords="529,711,682,752"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_tuple_element.html#ad8ebdadf86fff84e6aca2cf34b1935f4" title="Get identifier. " alt="" coords="512,776,699,817"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ram_tuple_element.html#ae0286894f39d174eb3427508d752e296" title="Get element. " alt="" coords="512,1024,699,1065"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_r_a_m_i.html#a89028d72e794b7083299d7b1bdb2e1e3" title="Increment counter. " alt="" coords="516,1090,695,1117"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ram_abstract_operator.html#ac49a42abebab2fb9b624427f876b2f0f" title="Get argument values. " alt="" coords="499,384,711,425"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ram_intrinsic_operator.html#a421f529e40f5c246f32b43abbfa10b43" title="Get operator symbol. " alt="" coords="502,319,709,360"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_symbol_table.html#ada9d8afe1219bf54d16507b424f512c6" title="Find the index of a symbol in the table, inserting a new symbol if it does not exist there already..." alt="" coords="529,1207,681,1248"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_ram_user_defined_operator.html#a698b19582a698f3f24a5145d79c9a609" title="Get operator name. " alt="" coords="487,449,724,491"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_ram_user_defined_operator.html#ab098adbd1cf492ed22a06b42d86e2462" title="Get types of arguments. " alt="" coords="487,515,724,556"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1_r_a_m_i_interface.html#ad2e3c5e97e1f0b4ba9c014f82939f107" title="souffle::RAMIInterface\l::getMethodHandle" alt="" coords="526,580,685,621"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1_ram_abstract_operator.html#acef7493e3b49016cea0136488f354ef0" title="Get number of arguments. " alt="" coords="499,645,711,687"/>
+<area shape="rect" id="node23" href="$classsouffle_1_1_ram_abstract_operator.html#a1d2f51218b07a82c24f819af3ec05593" title="Get i&#45;th argument value. " alt="" coords="499,841,711,883"/>
+<area shape="rect" id="node24" href="$classsouffle_1_1_ram_pack_record.html#afb91f1eff5cc6ca8390d2370d6c5140e" title="Get record arguments. " alt="" coords="519,188,692,229"/>
+<area shape="rect" id="node25" href="$namespacesouffle.html#a3194e440e935d0d6089f8fa6bf405086" title="A function packing a tuple of the given arity into a reference. " alt="" coords="554,907,657,934"/>
+<area shape="rect" id="node26" href="$classsouffle_1_1_r_a_m_i_context.html#a0e8609863c750f9b1e82d52881b55b95" title="souffle::RAMIContext\l::getArgument" alt="" coords="529,959,681,1000"/>
+<area shape="rect" id="node27" href="$classsouffle_1_1_ram_subroutine_argument.html#a6fd7a668031928c4a62ebf26e36e910b" title="Get argument. " alt="" coords="488,253,723,295"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#ad0e8debde5608979e041dd30e044612a" title="Valid C++ identifier, note that this does not ensure the uniqueness of identifiers returned..." alt="" coords="806,783,933,810"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="797,163,941,190"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_ram_translation_unit.html#a575f705235d66d41cb889c984632a528" title="souffle::RamTranslationUnit\l::getSymbolTable" alt="" coords="772,1089,967,1131"/>
+<area shape="rect" id="node15" href="$structsouffle_1_1_lock.html#a0fe2edd3ac13a141851fa021716bae04" title="souffle::Lock::acquire" alt="" coords="791,1221,947,1247"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_symbol_table.html#aedae4abdfc5f4d8aaa6fdd1ac3fb1f91" title="souffle::SymbolTable\l::size" alt="" coords="793,1272,945,1313"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1_symbol_table.html#a3ada80bb01130f70001918c386d3ab21" title="Convenience method to place a new symbol in the table, if it does not exist, and return the index of ..." alt="" coords="793,1155,945,1196"/>
+<area shape="rect" id="node30" href="$classsouffle_1_1_r_a_m_i_relation.html#a6251c05818542a12e9b2a461b3847728" title="Obtains a full index&#45;key for this relation. " alt="" coords="793,1441,945,1483"/>
+<area shape="rect" id="node34" href="$classsouffle_1_1_r_a_m_i_index.html#a361c46dd8acaf2b7a269ef1b08a264dc" title="check whether tuple exists in index " alt="" coords="537,1389,673,1431"/>
+<area shape="rect" id="node32" href="$classsouffle_1_1_r_a_m_i_relation.html#a46062b83cb3231baecc78d1fd0e66837" title="get index for a given order. " alt="" coords="793,1507,945,1548"/>
+<area shape="rect" id="node33" href="$classsouffle_1_1_min_index_selection.html#a97816e75d99d7d7cfdff2a7912953e6f" title="Get index for a search " alt="" coords="776,1572,963,1613"/>
+<area shape="rect" id="node46" href="$classsouffle_1_1_ram_index_operation.html#ab91b3a831408669a9322412fa9790b1f" title="Get range pattern. " alt="" coords="506,5,705,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="souffle::profile::Tui::runCommand" name="souffle::profile::Tui::runCommand">
+<area shape="rect" id="node2" href="$classsouffle_1_1profile_1_1_output_processor.html#ab7b1f38be8ebb5293c4d76fc2af69783" title="souffle::profile::Output\lProcessor::getRelTable" alt="" coords="203,5,367,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1profile_1_1_output_processor.html#a5b6070ec39c71ee42351be046c36773c" title="souffle::profile::Output\lProcessor::getRulTable" alt="" coords="203,71,367,112"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1profile_1_1_input_reader.html#a4c496c68f943db0022338e4a46111551" title="souffle::profile::InputReader\l::hasReceivedInput" alt="" coords="188,136,383,177"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1profile_1_1_table.html#ac99e71fd2b566a2e68a72da291a86aa5" title="souffle::profile::Table\l::addRow" alt="" coords="431,39,581,80"/>
+</map>

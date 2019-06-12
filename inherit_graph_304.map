@@ -1,0 +1,74 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classsouffle_1_1_ram_abstract_aggregate.html" title="Abstract class for aggregation. " alt="" coords="1024,555,1247,581"/>
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_aggregate.html" title="Aggregation function applied on some relation. " alt="" coords="1310,787,1478,813"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_index_aggregate.html" title="Indexed aggregation on a relation. " alt="" coords="1541,761,1744,788"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_abstract_choice.html" title="Abstract class for a choice operation. " alt="" coords="1295,976,1493,1003"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_choice.html" title="Find a tuple in a relation such that a given condition holds. " alt="" coords="1571,1027,1715,1053"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ram_index_choice.html" title="Use an index to find a tuple in a relation such that a given condition holds. " alt="" coords="1553,976,1732,1003"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_parallel_choice.html" title="souffle::RamParallelChoice" alt="" coords="1803,1009,1993,1036"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ram_parallel_index_choice.html" title="Use an index to find a tuple in a relation such that a given condition holds in parallel. " alt="" coords="1808,935,1988,977"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ram_abstract_log.html" title="Abstract class for logging. " alt="" coords="206,411,385,437"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ram_debug_info.html" title="Debug statement. " alt="" coords="487,411,654,437"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ram_log_relation_timer.html" title="Execution time logger for a statement. " alt="" coords="752,327,963,353"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ram_log_timer.html" title="Execution time logger for a statement. " alt="" coords="491,461,651,488"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_ram_abstract_parallel.html" title="Abstract class for parallel operation. " alt="" coords="1543,925,1743,952"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ram_parallel_index_scan.html" title="Search for tuples of a relation matching a criteria. " alt="" coords="1792,880,2004,907"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_ram_parallel_scan.html" title="Iterate all tuples of a relation in parallel. " alt="" coords="1809,827,1987,853"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_ram_node.html" title="RamNode is a superclass for all RAM IR classes. " alt="" coords="5,933,140,960"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_ram_condition.html" title="Abstract class for conditions and boolean values in RAM. " alt="" coords="215,1111,376,1137"/>
+<area shape="rect" id="node27" href="$classsouffle_1_1_ram_expression.html" title="Abstract class for describing scalar values in RAM. " alt="" coords="210,183,381,209"/>
+<area shape="rect" id="node37" href="$classsouffle_1_1_ram_operation.html" title="Abstract class for a relational algebra operation. " alt="" coords="213,933,377,960"/>
+<area shape="rect" id="node50" href="$classsouffle_1_1_ram_program.html" title="RAM program relation declaration and functions. " alt="" coords="217,1161,373,1188"/>
+<area shape="rect" id="node51" href="$classsouffle_1_1_ram_relation.html" title="A RAM Relation in the RAM intermediate representation. " alt="" coords="220,1212,371,1239"/>
+<area shape="rect" id="node52" href="$classsouffle_1_1_ram_relation_reference.html" title="A RAM Relation in the RAM intermediate representation. " alt="" coords="188,613,403,640"/>
+<area shape="rect" id="node53" href="$classsouffle_1_1_ram_statement.html" title="Abstract class for RAM statements. " alt="" coords="210,664,381,691"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1_ram_abstract_existence_check.html" title="Abstract existence check for a tuple in a relation. " alt="" coords="463,1238,679,1279"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1_ram_conjunction.html" title="A conjunction of conditions. " alt="" coords="483,1304,659,1331"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1_ram_constraint.html" title="Evaluates a binary constraint with respect to two RamExpressions. " alt="" coords="487,1355,654,1381"/>
+<area shape="rect" id="node23" href="$classsouffle_1_1_ram_emptiness_check.html" title="Emptiness check for a relation. " alt="" coords="467,1035,674,1061"/>
+<area shape="rect" id="node24" href="$classsouffle_1_1_ram_false.html" title="souffle::RamFalse" alt="" coords="504,1085,637,1112"/>
+<area shape="rect" id="node25" href="$classsouffle_1_1_ram_negation.html" title="Negates a given condition. " alt="" coords="491,1136,650,1163"/>
+<area shape="rect" id="node26" href="$classsouffle_1_1_ram_true.html" title="True value condition. " alt="" coords="507,1187,634,1213"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_ram_existence_check.html" title="Existence check for a tuple(&#45;pattern) in a relation. " alt="" coords="757,1216,958,1243"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_ram_provenance_existence_check.html" title="Provenance Existence check for a relation. " alt="" coords="739,1267,976,1309"/>
+<area shape="rect" id="node28" href="$classsouffle_1_1_ram_abstract_operator.html" title="Abstract class for an operator/functor. " alt="" coords="465,208,677,235"/>
+<area shape="rect" id="node31" href="$classsouffle_1_1_ram_auto_increment.html" title="Increment a counter and return its value. " alt="" coords="473,259,669,285"/>
+<area shape="rect" id="node32" href="$classsouffle_1_1_ram_number.html" title="Represents a number constant. " alt="" coords="494,309,647,336"/>
+<area shape="rect" id="node33" href="$classsouffle_1_1_ram_pack_record.html" title="Packs a record&#39;s arguments into a reference. " alt="" coords="484,5,657,32"/>
+<area shape="rect" id="node34" href="$classsouffle_1_1_ram_subroutine_argument.html" title="Access argument of a subroutine. " alt="" coords="453,56,688,83"/>
+<area shape="rect" id="node35" href="$classsouffle_1_1_ram_tuple_element.html" title="Access element from the current tuple in a tuple environment. " alt="" coords="477,107,664,133"/>
+<area shape="rect" id="node36" href="$classsouffle_1_1_ram_undef_value.html" title="An undefined expression. " alt="" coords="483,157,658,184"/>
+<area shape="rect" id="node29" href="$classsouffle_1_1_ram_intrinsic_operator.html" title="Operator that represents an intrinsic (built&#45;in) functor. " alt="" coords="754,183,961,209"/>
+<area shape="rect" id="node30" href="$classsouffle_1_1_ram_user_defined_operator.html" title="Operator that represents an extrinsic (user&#45;defined) functor. " alt="" coords="739,233,976,260"/>
+<area shape="rect" id="node38" href="$classsouffle_1_1_ram_nested_operation.html" title="Abstract class for a nesting operations in a loop&#45;nest. " alt="" coords="465,933,676,960"/>
+<area shape="rect" id="node48" href="$classsouffle_1_1_ram_project.html" title="Project a result into the target relation. " alt="" coords="498,984,643,1011"/>
+<area shape="rect" id="node49" href="$classsouffle_1_1_ram_subroutine_return_value.html" title="A statement for returning from a ram subroutine. " alt="" coords="465,867,677,909"/>
+<area shape="rect" id="node39" href="$classsouffle_1_1_ram_abstract_conditional.html" title="Abstract conditional statement. " alt="" coords="744,900,971,927"/>
+<area shape="rect" id="node42" href="$classsouffle_1_1_ram_tuple_operation.html" title="Abstract class for relation searches and lookups. " alt="" coords="759,951,955,977"/>
+<area shape="rect" id="node40" href="$classsouffle_1_1_ram_break.html" title="Breaks out of the loop if a condition holds. " alt="" coords="1066,875,1205,901"/>
+<area shape="rect" id="node41" href="$classsouffle_1_1_ram_filter.html" title="Checks whether a given condition holds. " alt="" coords="1070,824,1201,851"/>
+<area shape="rect" id="node43" href="$classsouffle_1_1_ram_relation_operation.html" title="Abstract class for operations on relations. " alt="" coords="1028,976,1243,1003"/>
+<area shape="rect" id="node47" href="$classsouffle_1_1_ram_unpack_record.html" title="Record lookup. " alt="" coords="1039,925,1231,952"/>
+<area shape="rect" id="node44" href="$classsouffle_1_1_ram_index_operation.html" title="souffle::RamIndexOperation" alt="" coords="1295,888,1493,915"/>
+<area shape="rect" id="node46" href="$classsouffle_1_1_ram_scan.html" title="Iterate all tuples of a relation. " alt="" coords="1327,837,1461,864"/>
+<area shape="rect" id="node45" href="$classsouffle_1_1_ram_index_scan.html" title="Search for tuples of a relation matching a criteria. " alt="" coords="1559,875,1726,901"/>
+<area shape="rect" id="node54" href="$classsouffle_1_1_ram_bin_relation_statement.html" title="Abstract class for a binary relation. " alt="" coords="451,613,691,640"/>
+<area shape="rect" id="node57" href="$classsouffle_1_1_ram_exit.html" title="Exit statement for a loop. " alt="" coords="509,664,633,691"/>
+<area shape="rect" id="node58" href="$classsouffle_1_1_ram_list_statement.html" title="Abstract class for a list of RAM statements. " alt="" coords="475,715,667,741"/>
+<area shape="rect" id="node61" href="$classsouffle_1_1_ram_loop.html" title="Execute statement until statement terminates loop via an exit statement. " alt="" coords="505,765,637,792"/>
+<area shape="rect" id="node62" href="$classsouffle_1_1_ram_query.html" title="A relational algebra query. " alt="" coords="501,816,640,843"/>
+<area shape="rect" id="node63" href="$classsouffle_1_1_ram_relation_statement.html" title="RAM Statements with a single relation. " alt="" coords="461,563,681,589"/>
+<area shape="rect" id="node72" href="$classsouffle_1_1_ram_stratum.html" title="Stratum statement. " alt="" coords="493,512,648,539"/>
+<area shape="rect" id="node55" href="$classsouffle_1_1_ram_merge.html" title="Merge tuples from a source into target relation. " alt="" coords="787,697,928,724"/>
+<area shape="rect" id="node56" href="$classsouffle_1_1_ram_swap.html" title="Swap operation with respect to two relations. " alt="" coords="790,748,925,775"/>
+<area shape="rect" id="node59" href="$classsouffle_1_1_ram_parallel.html" title="Parallel block of statements. " alt="" coords="784,799,931,825"/>
+<area shape="rect" id="node60" href="$classsouffle_1_1_ram_sequence.html" title="Sequence of RAM statements. " alt="" coords="775,849,940,876"/>
+<area shape="rect" id="node64" href="$classsouffle_1_1_ram_abstract_load_store.html" title="Abstract class for load/store for a relation. " alt="" coords="764,479,951,521"/>
+<area shape="rect" id="node67" href="$classsouffle_1_1_ram_clear.html" title="Delete tuples of a relation. " alt="" coords="790,545,925,572"/>
+<area shape="rect" id="node68" href="$classsouffle_1_1_ram_create.html" title="Create new RAM relation. " alt="" coords="785,596,929,623"/>
+<area shape="rect" id="node69" href="$classsouffle_1_1_ram_drop.html" title="Drop relation, i.e., delete it from memory. " alt="" coords="791,647,923,673"/>
+<area shape="rect" id="node70" href="$classsouffle_1_1_ram_fact.html" title="Insert a fact into a relation. " alt="" coords="794,377,921,404"/>
+<area shape="rect" id="node71" href="$classsouffle_1_1_ram_log_size.html" title="Log relation size and a logging message. " alt="" coords="782,428,933,455"/>
+<area shape="rect" id="node65" href="$classsouffle_1_1_ram_load.html" title="Load data into a relation. " alt="" coords="1069,656,1201,683"/>
+<area shape="rect" id="node66" href="$classsouffle_1_1_ram_store.html" title="Store data of a relation. " alt="" coords="1067,605,1203,632"/>
+</map>

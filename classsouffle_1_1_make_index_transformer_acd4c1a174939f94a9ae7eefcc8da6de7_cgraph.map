@@ -1,0 +1,11 @@
+<map id="souffle::MakeIndexTransformer::rewriteScan" name="souffle::MakeIndexTransformer::rewriteScan">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_relation.html#a4b8c28fa5818f930e0d3149cd4a50b8b" title="souffle::RamRelation\l::getArity" alt="" coords="301,5,452,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_nested_operation.html#aecd9e1a082f7ad54bea98bd6a6825352" title="Get nested operation. " alt="" coords="271,71,482,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_nested_operation.html#ae6a3beff0632964944db3ffbb12fb88e" title="Get profile text. " alt="" coords="271,136,482,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_relation_operation.html#a64ab83f16d939b4088b572b7dfb37067" title="Get search relation. " alt="" coords="269,201,484,243"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_tuple_operation.html#a5ba589d8d0941f07eb19ae77f56e3357" title="Get identifier. " alt="" coords="279,267,475,308"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#ad0e8debde5608979e041dd30e044612a" title="Valid C++ identifier, note that this does not ensure the uniqueness of identifiers returned..." alt="" coords="549,303,676,330"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#adda7adbee5f19bb274a067facc71d0e8" title="souffle::isRamTrue" alt="" coords="308,383,445,410"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#aeea6de3eaf7c83bc19097c74d3fb6693" title="Convert terms of a conjunction to a list. " alt="" coords="285,434,468,461"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ram_condition.html#a54f67f8136251030e958232ae1aa051a" title="Create a clone (i.e. " alt="" coords="532,427,693,468"/>
+</map>

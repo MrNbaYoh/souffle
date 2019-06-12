@@ -1,0 +1,6 @@
+<map id="souffle::detail::btree::node::getSplitPoint" name="souffle::detail::btree::node::getSplitPoint">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a6f53082a60ed5593022bde81dc619ac9" title="souffle::contains" alt="" coords="240,5,367,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_optimistic_read_write_lock.html#a5c63a226c4fb6dd2869c3b7e7fd6dfca" title="souffle::OptimisticReadWrite\lLock::is_write_locked" alt="" coords="204,57,403,98"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#a2925d5d1ec64b003a6b111ed29a2392b" title="utility function to split a string " alt="" coords="254,123,353,149"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#a0fff2be077dd5d1105f3a6e718339f2f" title="A utility printing a given value multiple times. " alt="" coords="451,123,559,149"/>
+</map>

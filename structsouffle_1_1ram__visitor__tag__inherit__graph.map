@@ -1,0 +1,7 @@
+<map id="souffle::ram_visitor_tag" name="souffle::ram_visitor_tag">
+<area shape="rect" id="node2" href="$structsouffle_1_1_ram_visitor.html" title="{souffle::RamVisitor\l\&lt; void \&gt;\n||+ operator()()\l+ operator()()\l+ visit()\l+ visit()\l+ ~RamVisitor()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\land 58 more...\l}" alt="" coords="43,131,185,443"/>
+<area shape="rect" id="node4" href="$structsouffle_1_1_ram_visitor.html" title="{souffle::RamVisitor\l\&lt; void, size_t \&gt;\n||+ operator()()\l+ operator()()\l+ visit()\l+ visit()\l+ ~RamVisitor()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\land 58 more...\l}" alt="" coords="230,131,371,443"/>
+<area shape="rect" id="node6" href="$structsouffle_1_1_ram_visitor.html" title="The generic base type of all RamVisitors realizing the dispatching of visitor calls. " alt="" coords="395,131,537,443"/>
+<area shape="rect" id="node3" href="$structsouffle_1_1detail_1_1_lambda_ram_visitor.html" title="A specialized visitor wrapping a lambda function – an auxiliary type required for visitor convenienc..." alt="" coords="5,667,201,773"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_l_v_m_generator.html" title="LVMGenerator takes an RAM program and transfer it into an equivalent Bytecode representation. " alt="" coords="225,491,400,949"/>
+</map>

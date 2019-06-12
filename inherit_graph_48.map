@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classsouffle_1_1detail_1_1btree.html" title="souffle::detail::btree\l\&lt; Tuple, typename Index\l::comparator, std::allocator\l\&lt; Tuple \&gt;, 256, typename detail\l::default_strategy\&lt; Tuple \&gt;::type,\l true, typename Index::comparator,\l detail::updater\&lt; Tuple \&gt; \&gt;" alt="" coords="5,5,256,120"/>
+<area shape="rect" id="node2" href="$classsouffle_1_1btree__set.html" title="souffle::btree_set\l\&lt; Tuple, typename Index\l::comparator \&gt;" alt="" coords="304,35,484,91"/>
+</map>

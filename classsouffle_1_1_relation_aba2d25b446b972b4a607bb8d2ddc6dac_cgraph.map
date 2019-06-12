@@ -1,0 +1,5 @@
+<map id="souffle::Relation::getSignature" name="souffle::Relation::getSignature">
+<area shape="rect" id="node2" href="$classsouffle_1_1_relation.html#a8e8e6b38e1d621e9cccd365eaedbd7e1" title="souffle::Relation::\lgetArity" alt="" coords="184,5,315,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_relation.html#a2607e76650b5045cd84babfdd0bd64f3" title="souffle::Relation::\lgetAttrType" alt="" coords="184,71,315,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_relation.html#a813a8dcd5e6b8c1415258e0059762fd3" title="souffle::Relation::\lpurge" alt="" coords="184,136,315,177"/>
+</map>

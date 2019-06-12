@@ -1,0 +1,9 @@
+<map id="souffle::AstSemanticChecker::checkRecordType" name="souffle::AstSemanticChecker::checkRecordType">
+<area shape="rect" id="node2" href="$classsouffle_1_1_error_report.html#a699dc9231cef74ac54573e3c79de7143" title="Adds an error with the given message and location. " alt="" coords="287,5,431,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_record_type.html#af3aad0e2e9540f4d0080d717015ddeac" title="Obtains the list of field constituting this record type. " alt="" coords="277,71,441,112"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_type.html#a988b286aa4acd79538540d1705483728" title="Obtains the name of this type. " alt="" coords="265,137,454,163"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_node.html#a68e6e13cb8d1510e47087447a89cae83" title="Return source location of the AstNode. " alt="" coords="260,187,459,214"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_program.html#a0fe8485ff00fc379f6ff3d61117e96ba" title="Obtains the type with the given name. " alt="" coords="285,239,433,280"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="298,305,421,331"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_diagnostic_message.html#ad3fd6ab90856d9cdd9bbba3140440362" title="souffle::DiagnosticMessage\l::DiagnosticMessage" alt="" coords="507,5,703,47"/>
+</map>

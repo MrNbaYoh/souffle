@@ -1,0 +1,14 @@
+<map id="souffle::RamTransformer" name="souffle::RamTransformer">
+<area shape="rect" id="node2" href="$classsouffle_1_1_choice_conversion_transformer.html" title="Convert (Scan/If)/(IndexScan/If) operaitons to (Choice)/(IndexChoice) operations. ..." alt="" coords="5,204,192,355"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_collapse_filters_transformer.html" title="Transforms consecutive filters into a single filter containing a conjunction. " alt="" coords="216,219,379,340"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_expand_filter_transformer.html" title="Transforms RamConjunctions into consecutive filter operations. " alt="" coords="403,226,629,333"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_hoist_aggregate_transformer.html" title="{souffle::HoistAggregateTransformer\n|# rla\l|+ getName()\l+ hoistAggregate()\l# transform()\l}" alt="" coords="652,226,900,333"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_hoist_conditions_transformer.html" title="Hosts conditions in a loop&#45;nest to the most&#45;outer/semantically&#45;correct loop. " alt="" coords="925,219,1097,340"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_if_conversion_transformer.html" title="Convert IndexScan operations to Filter/Existence Checks. " alt="" coords="1121,219,1348,340"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_make_index_transformer.html" title="Make indexable operations to indexed operations. " alt="" coords="1372,189,1588,369"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_parallel_transformer.html" title="Transforms Choice/IndexChoice/IndexScan/Scan into parallel versions. " alt="" coords="1613,226,1806,333"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ram_conditional_transformer.html" title="RamConditionalTransformer &#160;Composite conditional transformer " alt="" coords="1831,219,2079,340"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ram_loop_transformer.html" title="RamLoopTransformer &#160;Composite loop transformer " alt="" coords="2103,226,2311,333"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ram_transformer_sequence.html" title="RamTransformerSequence &#160;Composite sequence transformer " alt="" coords="2335,219,2577,340"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_tuple_id_transformer.html" title="Ordering tupleIds in RamTupleOperation operations correctly. " alt="" coords="2601,226,2791,333"/>
+</map>

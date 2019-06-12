@@ -1,0 +1,4 @@
+<map id="souffle::AstIntrinsicFunctor::acceptsSymbols" name="souffle::AstIntrinsicFunctor::acceptsSymbols">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a6d9e1b904960c5f16b6f5053faf38046" title="Determines whether an argument has a symbolic value. " alt="" coords="243,5,429,47"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#af54a82cf0595dc6f8415763a876a3f7a" title="Determines whether an argument has a number value. " alt="" coords="477,5,664,47"/>
+</map>

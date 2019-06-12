@@ -1,0 +1,5 @@
+<map id="souffle::LVM::printMain" name="souffle::LVM::printMain">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_program.html#a700bc589281fd3f2478b074c3134d450" title="Get main program. " alt="" coords="238,5,394,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_translation_unit.html#af537996409b1095c05e624f52d8eab70" title="souffle::RamTranslationUnit\l::getProgram" alt="" coords="219,71,413,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_translation_unit.html#a575f705235d66d41cb889c984632a528" title="souffle::RamTranslationUnit\l::getSymbolTable" alt="" coords="219,136,413,177"/>
+</map>

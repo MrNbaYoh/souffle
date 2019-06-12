@@ -1,0 +1,5 @@
+<map id="souffle::RedundantRelations::run" name="souffle::RedundantRelations::run">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_translation_unit.html#a7a1598acb91192e90026763b3b968653" title="get analysis: analysis is generated on the fly if not present " alt="" coords="280,5,467,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_translation_unit.html#a85862a5fcfecdf63c7367926cdedde23" title="get the AST program " alt="" coords="280,71,467,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_program.html#a60fcb7d3a21a06be7b48f5849917a22b" title="Get all relations in the program. " alt="" coords="299,136,447,177"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="souffle::ram::index_utils::DirectIndex::equalRange" name="souffle::ram::index_utils::DirectIndex::equalRange">
+<area shape="rect" id="node2" href="$classsouffle_1_1detail_1_1btree.html#a25b18ff528fe1d1f94c8c61da4444f47" title="souffle::detail::btree::end" alt="" coords="193,5,375,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1detail_1_1btree.html#a26d3757dbbb277fd131cc8e3197f2565" title="Obtains a lower boundary for the given key – hence an iterator referencing the smallest value that i..." alt="" coords="209,57,359,98"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#acea8a37cc1681f657054f3b30af55003" title="A utility function enabling the construction of ranges without explicitly specifying the iterator typ..." alt="" coords="208,123,360,149"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1detail_1_1btree.html#a9fd1428f12f3096793126ff76b093b1b" title="Obtains an upper boundary for the given key – hence an iterator referencing the first element that t..." alt="" coords="209,174,359,215"/>
+</map>

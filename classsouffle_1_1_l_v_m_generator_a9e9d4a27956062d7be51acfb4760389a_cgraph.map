@@ -1,0 +1,7 @@
+<map id="souffle::LVMGenerator::visitCreate" name="souffle::LVMGenerator::visitCreate">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_relation.html#a4b8c28fa5818f930e0d3149cd4a50b8b" title="souffle::RamRelation\l::getArity" alt="" coords="251,5,401,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_relation.html#a218ff692979f9dc4dc769db4c2d63428" title="souffle::RamRelation\l::getAttributeTypeQualifiers" alt="" coords="229,71,423,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_relation.html#aff204de1a828d72e6e74337be4885ddd" title="Get name. " alt="" coords="251,136,401,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_relation_statement.html#a93110734f0f992a2f9b1a1d492cef3ad" title="Get RAM relation. " alt="" coords="216,201,436,243"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_relation.html#a72e3a04cbd701f2e8aa42919b76cedce" title="Relation representation type. " alt="" coords="251,267,401,308"/>
+</map>

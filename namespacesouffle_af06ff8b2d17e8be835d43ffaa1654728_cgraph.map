@@ -1,0 +1,51 @@
+<map id="souffle::toLogicblox" name="souffle::toLogicblox">
+<area shape="rect" id="node2" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="857,986,1015,1012"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_logicblox_converter.html#afba23f276a1204856e84716cdd699a0f" title="souffle::LogicbloxConverter\l::convert" alt="" coords="349,132,544,173"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#a79fa4170c4094bc943de6fa5acb5796e" title="Check whether a directory exists in the file system. " alt="" coords="387,428,507,455"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#a69107e934a60222580ee8ba6882dc3d3" title="Check whether a file exists in the file system. " alt="" coords="385,479,508,506"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_debug_reporter.html#a044d7261d829ad1de6ec6a92067e2c47" title="Generate a debug report section for the current state of the given translation unit with the given id..." alt="" coords="361,530,532,572"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_main_config.html#a61242eeabf22508207d11582f9c9f3d4" title="souffle::MainConfig\l::help" alt="" coords="618,46,761,88"/>
+<area shape="rect" id="node18" href="$namespacesouffle.html#a64753e143a37bb9414121fc75987cb14" title="Check whether a given file exists and it is an executable. " alt="" coords="613,1188,765,1215"/>
+<area shape="rect" id="node19" href="$namespacesouffle.html#a052d35be8e032f425317fd1b6d7e487a" title="souffle::main" alt="" coords="197,906,301,932"/>
+<area shape="rect" id="node29" href="$namespacesouffle.html#a1c65551944c7ecf6f44ec851b49bdbb0" title="souffle::now" alt="" coords="641,1087,738,1114"/>
+<area shape="rect" id="node30" href="$classsouffle_1_1_parser_driver.html#afb895907e23707a2d6a3fcdc1a82e222" title="souffle::ParserDriver\l::parseTranslationUnit" alt="" coords="367,1737,527,1778"/>
+<area shape="rect" id="node33" href="$classsouffle_1_1_main_config.html#a9a638fe8cffbbc1020fc482b4ddbde71" title="souffle::MainConfig\l::processArgs" alt="" coords="375,249,518,290"/>
+<area shape="rect" id="node50" href="$namespacesouffle.html#a6e9757564e85959db8b14a9be7d544e1" title="Simple implementation of a which tool. " alt="" coords="393,1555,500,1582"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_translation_unit.html#a7a1598acb91192e90026763b3b968653" title="get analysis: analysis is generated on the fly if not present " alt="" coords="843,300,1029,341"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_translation_unit.html#a85862a5fcfecdf63c7367926cdedde23" title="get the AST program " alt="" coords="596,476,783,517"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_program.html#a41b95b3179fc737c70c7b957220146c4" title="Output the program to a given output stream. " alt="" coords="615,358,763,400"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ast_translation_unit.html#a2c05c0d93e34800167034b1aa423c4a0" title="get debug report " alt="" coords="596,606,783,648"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_debug_report.html#a4e6fe0a6d9854ce570d008772daa9aba" title="souffle::DebugReport\l::addSection" alt="" coords="612,541,767,582"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_debug_report_section.html#af5d32516978098bf5bf4df8b0606e2c1" title="souffle::DebugReportSection\l::DebugReportSection" alt="" coords="835,545,1037,586"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="889,366,983,392"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_debug_report_section.html#aba41933dd6d0ff275341ca3fc651b901" title="Outputs the HTML code for the index to the given stream, consisting of a link to the section body fol..." alt="" coords="1085,486,1288,528"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_debug_report_section.html#aafbec062168aa2e7e09bf774f7ef6c42" title="Outputs the HTML code for the title header to the given stream. " alt="" coords="1336,574,1539,616"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_debug_report_section.html#a5afeb8a8592a651aacf9fa1e08e9ac51" title="Outputs the HTML code for the content of the section to the given stream, consisting of the title hea..." alt="" coords="1085,604,1288,645"/>
+<area shape="rect" id="node20" href="$namespacesouffle.html#a9fbc2262a6164b62766f6fcb67f12ae4" title="souffle::baseName" alt="" coords="375,1235,518,1262"/>
+<area shape="rect" id="node21" href="$namespacesouffle.html#a97d640155c037c468924198354aae2ea" title="Compiles the given source file to a binary file. " alt="" coords="359,662,534,688"/>
+<area shape="rect" id="node22" href="$namespacesouffle.html#a673608e9453179d30f6607384f54463a" title="Splits a string given a delimiter. " alt="" coords="621,1036,757,1063"/>
+<area shape="rect" id="node23" href="$namespacesouffle.html#a55c9b03f9a569fd8b1bb827a6c62eed6" title="Executes a binary file. " alt="" coords="365,1083,528,1110"/>
+<area shape="rect" id="node24" href="$namespacesouffle.html#a675bff7e6d00e266b438670fc005e4e1" title="souffle::explain" alt="" coords="388,1286,505,1312"/>
+<area shape="rect" id="node25" href="$namespacesouffle.html#af944f0c474df29e5c8e45e4b7df60be5" title="souffle::findTool" alt="" coords="387,763,506,790"/>
+<area shape="rect" id="node26" href="$classsouffle_1_1_s_c_c_graph.html#a542aa05043ef4016ea18bede28179b5d" title="Get the number of SCCs in the graph. " alt="" coords="373,814,520,856"/>
+<area shape="rect" id="node27" href="$namespacesouffle.html#ad0e8debde5608979e041dd30e044612a" title="Valid C++ identifier, note that this does not ensure the uniqueness of identifiers returned..." alt="" coords="383,880,510,907"/>
+<area shape="rect" id="node28" href="$namespacesouffle.html#a56909036ae0514924e306d0a1a180837" title="Check whether a string is a sequence of numbers. " alt="" coords="379,931,514,958"/>
+<area shape="rect" id="node36" href="$classsouffle_1_1profile_1_1_tui.html#ad1e94241f9c749315f718f18a3b74b00" title="souffle::profile::Tui\l::runProf" alt="" coords="379,1489,514,1530"/>
+<area shape="rect" id="node43" href="$namespacesouffle.html#ab31e06999eb72da2f6d9a85bdd3dda59" title="File name, with extension removed. " alt="" coords="370,982,523,1008"/>
+<area shape="rect" id="node44" href="$namespacesouffle.html#a2122cfa5acdee4846ecda0855f0beee4" title="Generate temporary file. " alt="" coords="383,1134,510,1160"/>
+<area shape="rect" id="node45" href="$classsouffle_1_1_ast_translator.html#aa34985564ed3ec62c72b4e7c82f3b590" title="translates AST to translation unit " alt="" coords="369,596,524,637"/>
+<area shape="rect" id="node31" href="$classsouffle_1_1_parser_driver.html#a8d45edc1d26e58a4d1df478fee0f2e7a" title="souffle::ParserDriver\l::parse" alt="" coords="614,1737,765,1778"/>
+<area shape="rect" id="node32" href="$_parser_driver_8cpp.html#a45c0eb07993a6eca6aab8fce3ffecea4" title="yylex_init_extra" alt="" coords="876,1744,996,1771"/>
+<area shape="rect" id="node34" href="$classsouffle_1_1profile_1_1_tui.html#a1368eefa24d481064004e319f8d22d50" title="souffle::profile::Tui\l::size" alt="" coords="622,190,757,232"/>
+<area shape="rect" id="node35" href="$classsouffle_1_1_base_table.html#a2351b0272f0646fc13d1516b2bf6857e" title="souffle::BaseTable\l\&lt; std::string, std::\lstring \&gt;::has" alt="" coords="621,111,758,167"/>
+<area shape="rect" id="node37" href="$classsouffle_1_1profile_1_1_input_reader.html#af42a37387d1666bca44bf42e62332506" title="souffle::profile::InputReader\l::setPrompt" alt="" coords="592,1293,787,1334"/>
+<area shape="rect" id="node38" href="$classsouffle_1_1profile_1_1_input_reader.html#a52add3f27ef26681e310ef5741860f40" title="souffle::profile::InputReader\l::getInput" alt="" coords="592,1358,787,1400"/>
+<area shape="rect" id="node39" href="$namespacesouffle_1_1profile_1_1_tools.html#af94b32d00e251be9167bf74c5a50d968" title="souffle::profile::Tools\l::trimWhitespace" alt="" coords="614,1424,765,1465"/>
+<area shape="rect" id="node40" href="$classsouffle_1_1profile_1_1_input_reader.html#a0058a208c97ed608a02a5226ed7e061a" title="souffle::profile::InputReader\l::addHistory" alt="" coords="592,1489,787,1530"/>
+<area shape="rect" id="node41" href="$namespacesouffle_1_1profile_1_1_tools.html#af066460f14a270ae3871cd18a8cf423d" title="souffle::profile::Tools\l::split" alt="" coords="614,1554,765,1596"/>
+<area shape="rect" id="node42" href="$classsouffle_1_1profile_1_1_tui.html#a335580eed52ebba63a027efc5d579b67" title="souffle::profile::Tui\l::runCommand" alt="" coords="622,1620,757,1661"/>
+<area shape="rect" id="node46" href="$classsouffle_1_1_ast_translator.html#aa7edc409dc3863ec59ccc4cfffe58b5d" title="translate AST to RAM Program " alt="" coords="612,737,767,778"/>
+<area shape="rect" id="node47" href="$classsouffle_1_1_ast_translation_unit.html#ad3c8a4225f4974ff9c8bad88f6690d9e" title="get symbol table " alt="" coords="596,854,783,896"/>
+<area shape="rect" id="node48" href="$classsouffle_1_1_ast_translation_unit.html#aec4a1cc2e03286db878a5d2f0377f894" title="get error report " alt="" coords="596,920,783,961"/>
+<area shape="rect" id="node49" href="$classsouffle_1_1_debug_reporter.html#ae6706724f0ac529fd011e0309d8899b0" title="Generate a debug report section for code (preserving formatting), with the given id and title..." alt="" coords="605,672,773,713"/>
+</map>

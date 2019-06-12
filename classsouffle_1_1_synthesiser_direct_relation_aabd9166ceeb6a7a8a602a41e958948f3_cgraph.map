@@ -1,0 +1,7 @@
+<map id="souffle::SynthesiserDirectRelation::getTypeName" name="souffle::SynthesiserDirectRelation::getTypeName">
+<area shape="rect" id="node2" href="$classsouffle_1_1_synthesiser_relation.html#a2bf63cc6b290d98fc967bc439e54da54" title="Get arity of relation. " alt="" coords="239,5,436,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_synthesiser_relation.html#a33dda46482730d81f1a66fc60ae1eb4c" title="Get list of indices used for relation, guaranteed that original indices in MinIndexSelection come bef..." alt="" coords="239,71,436,112"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_synthesiser_relation.html#afba93e41fee4cc36c11855a9af34ef75" title="Get stored MinIndexSelection. " alt="" coords="239,136,436,177"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="290,202,385,229"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_relation.html#a4b8c28fa5818f930e0d3149cd4a50b8b" title="souffle::RamRelation\l::getArity" alt="" coords="484,5,635,47"/>
+</map>

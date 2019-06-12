@@ -1,0 +1,20 @@
+<map id="souffle::MakeIndexTransformer::makeIndex" name="souffle::MakeIndexTransformer::makeIndex">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_transformer.html#a09ebbf557165cbdebf5d95d5124f709b" title="apply the transformer to a translation unit &#160;translationUnit that will be transformed. " alt="" coords="299,300,477,341"/>
+<area shape="rect" id="node16" href="$namespacesouffle.html#a486f7f441cd86b3a5baedd7948dba363" title="Creates a node mapper based on a corresponding lambda expression. " alt="" coords="269,403,507,430"/>
+<area shape="rect" id="node17" href="$namespacesouffle.html#a384e85f786c545758984fbf4c59e1016" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="307,530,469,557"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_transformer.html#a10a0d3a003094ad4a8de96b968d26e29" title="transform the translation unit / used by apply &#160;translationUnit that will be transformed. " alt="" coords="563,5,741,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_translation_unit.html#adc388ca999ac2b1a8b584f517e60d930" title="souffle::RamTranslationUnit\l::invalidateAnalyses" alt="" coords="555,71,749,112"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_translation_unit.html#af537996409b1095c05e624f52d8eab70" title="souffle::RamTranslationUnit\l::getProgram" alt="" coords="555,136,749,177"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_translation_unit.html#aa12b4d374b978ea3dea421c11fd55478" title="souffle::RamTranslationUnit\l::getDebugReport" alt="" coords="555,201,749,243"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_debug_report.html#a4e6fe0a6d9854ce570d008772daa9aba" title="souffle::DebugReport\l::addSection" alt="" coords="575,267,729,308"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_debug_reporter.html#ae6706724f0ac529fd011e0309d8899b0" title="Generate a debug report section for code (preserving formatting), with the given id and title..." alt="" coords="568,332,736,373"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_ram_transformer.html#ac8533b87fb70032e240b5fc8c40dea33" title="get name of the transformer &#160;flag reporting whether the RAM program has changed " alt="" coords="563,397,741,439"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ram_translation_unit.html#a34cc65ccb9f56403c617ed235f8100ab" title="souffle::RamTranslationUnit\l::getErrorReport" alt="" coords="555,463,749,504"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_error_report.html#abf08564b0cca7ee2f64cb6ba88ea6f3b" title="souffle::ErrorReport\l::getNumErrors" alt="" coords="580,528,724,569"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_debug_report_section.html#af5d32516978098bf5bf4df8b0606e2c1" title="souffle::DebugReportSection\l::DebugReportSection" alt="" coords="797,332,1000,373"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_debug_report_section.html#a5afeb8a8592a651aacf9fa1e08e9ac51" title="Outputs the HTML code for the content of the section to the given stream, consisting of the title hea..." alt="" coords="1048,273,1251,315"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_debug_report_section.html#aafbec062168aa2e7e09bf774f7ef6c42" title="Outputs the HTML code for the title header to the given stream. " alt="" coords="1299,303,1501,344"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_debug_report_section.html#aba41933dd6d0ff275341ca3fc651b901" title="Outputs the HTML code for the index to the given stream, consisting of a link to the section body fol..." alt="" coords="1048,391,1251,432"/>
+<area shape="rect" id="node18" href="$namespacesouffle.html#ab6ba329441fe5a6af5ebb8cde167d66f" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="571,593,733,635"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_ast_node.html#a3726392849b2a07142ba13bbd5fb16d2" title="Obtain a list of all embedded AST child nodes. " alt="" coords="805,593,992,635"/>
+</map>

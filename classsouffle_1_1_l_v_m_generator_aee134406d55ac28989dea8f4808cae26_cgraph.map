@@ -1,0 +1,13 @@
+<map id="souffle::LVMGenerator::visitIndexAggregate" name="souffle::LVMGenerator::visitIndexAggregate">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_relation.html#a4b8c28fa5818f930e0d3149cd4a50b8b" title="souffle::RamRelation\l::getArity" alt="" coords="252,5,403,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_abstract_aggregate.html#aa19135c18e941752520bcb0dac80aeed" title="Get condition. " alt="" coords="216,71,439,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_abstract_aggregate.html#ac6bc493add313dc4c5c7d374757085f5" title="Get target expression. " alt="" coords="216,136,439,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_abstract_aggregate.html#a13feaa74a0365bd7f158bc44cfb1044b" title="Get aggregation function. " alt="" coords="216,201,439,243"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_relation.html#aff204de1a828d72e6e74337be4885ddd" title="Get name. " alt="" coords="252,267,403,308"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ram_index_operation.html#ab91b3a831408669a9322412fa9790b1f" title="Get range pattern. " alt="" coords="228,332,427,373"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ram_relation_operation.html#a64ab83f16d939b4088b572b7dfb37067" title="Get search relation. " alt="" coords="220,397,435,439"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ram_tuple_operation.html#a5ba589d8d0941f07eb19ae77f56e3357" title="Get identifier. " alt="" coords="229,463,425,504"/>
+<area shape="rect" id="node12" href="$namespacesouffle.html#aaaed06bbcb6b8efcfd2474b1c5d81aa3" title="Determines if an expression is undefined. " alt="" coords="235,529,419,555"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="487,339,631,366"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#ad0e8debde5608979e041dd30e044612a" title="Valid C++ identifier, note that this does not ensure the uniqueness of identifiers returned..." alt="" coords="495,470,622,497"/>
+</map>

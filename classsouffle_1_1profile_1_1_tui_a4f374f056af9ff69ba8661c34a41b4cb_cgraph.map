@@ -1,0 +1,13 @@
+<map id="souffle::profile::Tui::Tui" name="souffle::profile::Tui::Tui">
+<area shape="rect" id="node2" href="$classsouffle_1_1profile_1_1_output_processor.html#a00fc18c81242ba0ba6a36de106a3c33b" title="souffle::profile::Output\lProcessor::getProgramRun" alt="" coords="212,201,404,243"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1profile_1_1_input_reader.html#a4c496c68f943db0022338e4a46111551" title="souffle::profile::InputReader\l::hasReceivedInput" alt="" coords="456,397,651,439"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#a1c65551944c7ecf6f44ec851b49bdbb0" title="souffle::now" alt="" coords="259,449,357,475"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1profile_1_1_tui.html#a335580eed52ebba63a027efc5d579b67" title="souffle::profile::Tui\l::runCommand" alt="" coords="241,332,375,373"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1profile_1_1_output_processor.html#a5fb24d468ff88ef3788a9dded90f3168" title="souffle::profile::Output\lProcessor::getAtomTable" alt="" coords="463,71,644,112"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1profile_1_1_output_processor.html#ab7b1f38be8ebb5293c4d76fc2af69783" title="souffle::profile::Output\lProcessor::getRelTable" alt="" coords="471,267,635,308"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1profile_1_1_output_processor.html#a5b6070ec39c71ee42351be046c36773c" title="souffle::profile::Output\lProcessor::getRulTable" alt="" coords="471,332,635,373"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1profile_1_1_output_processor.html#a5d15f0cedfd1b90f68bc621a16741588" title="souffle::profile::Output\lProcessor::getSubrulTable" alt="" coords="460,136,647,177"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1profile_1_1_output_processor.html#a80bdf538be825f022ff1dd2f214be69e" title="souffle::profile::Output\lProcessor::getVersionAtoms" alt="" coords="452,201,655,243"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1profile_1_1_output_processor.html#aeaa20b7a6c8670b3641c17a087c759f1" title="souffle::profile::Output\lProcessor::getVersions" alt="" coords="469,5,637,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1profile_1_1_table.html#ac99e71fd2b566a2e68a72da291a86aa5" title="souffle::profile::Table\l::addRow" alt="" coords="703,169,853,211"/>
+</map>

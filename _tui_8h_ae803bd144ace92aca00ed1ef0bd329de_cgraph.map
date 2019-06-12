@@ -1,0 +1,43 @@
+<map id="genJsonAtoms" name="genJsonAtoms">
+<area shape="rect" id="node2" href="$classsouffle_1_1profile_1_1_input_reader.html#aab746fdf89ff2a8b7b009efe515a2d96" title="souffle::profile::InputReader\l::appendTabCompletion" alt="" coords="178,5,373,47"/>
+<area shape="rect" id="node3" href="$namespacesouffle_1_1profile_1_1_tools.html#a88c43a221e64a3caa215693a871928ff" title="souffle::profile::Tools\l::cleanJsonOut" alt="" coords="485,349,636,391"/>
+<area shape="rect" id="node4" href="$namespacesouffle_1_1profile_1_1_tools.html#a7c25512762a92c980a664299f22ccf01" title="souffle::profile::Tools\l::cleanString" alt="" coords="200,981,351,1023"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1profile_1_1_input_reader.html#ae5691d46e4148e6593f1de31ef9525dd" title="souffle::profile::InputReader\l::clearTabCompletion" alt="" coords="178,1047,373,1088"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#ab0083e5ad86e88ff726ea4e3c7ef23c1" title="A function testing whether two vectors are equal (same vector of elements). " alt="" coords="222,1113,329,1139"/>
+<area shape="rect" id="node7" href="$namespacesouffle_1_1profile_1_1_tools.html#a69ece90093830c522e8c69d5e7ed3968" title="souffle::profile::Tools\l::file_exists" alt="" coords="200,1164,351,1205"/>
+<area shape="rect" id="node8" href="$namespacesouffle_1_1profile_1_1_tools.html#ad8bb140211706d667172df3bd5b619e7" title="souffle::profile::Tools\l::formatMemory" alt="" coords="200,1229,351,1271"/>
+<area shape="rect" id="node9" href="$namespacesouffle_1_1profile_1_1_tools.html#aaa4b4e17dc458867cb4da55f25b3ac76" title="souffle::profile::Tools\l::formatNum" alt="" coords="200,1295,351,1336"/>
+<area shape="rect" id="node10" href="$namespacesouffle_1_1profile_1_1_tools.html#afe466b09ae5ee2e1c7c64d55a0ae0c21" title="souffle::profile::Tools\l::formatTable" alt="" coords="200,376,351,417"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1profile_1_1_table.html#ad5808507021b6f9cdd5641aac825f29e" title="souffle::profile::Table\l::getRows" alt="" coords="485,439,636,480"/>
+<area shape="rect" id="node12" href="$namespacesouffle_1_1profile_1_1_tools.html#a3ce43960a9154229043078dcf8be3637" title="souffle::profile::Tools\l::formatTime" alt="" coords="200,1360,351,1401"/>
+<area shape="rect" id="node13" href="$_tui_8h.html#a8e8f416a7e346ba6a404fa4e778e0fe3" title="genJsonConfiguration" alt="" coords="197,122,354,149"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_profile_event_singleton.html#adf94d78a9d87272b42a1fe4bc31f918d" title="get instance " alt="" coords="457,72,664,113"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_profile_event_singleton.html#a637d45b9714bb164623bda9df474bc85" title="souffle::ProfileEventSingleton\l::getDB" alt="" coords="457,144,664,185"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1profile_1_1_tui.html#a1ddcb1a43bb1327638a1a547a160a517" title="souffle::profile::Tui\l::genJsonRelations" alt="" coords="207,493,344,535"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1profile_1_1_output_processor.html#a00fc18c81242ba0ba6a36de106a3c33b" title="souffle::profile::Output\lProcessor::getProgramRun" alt="" coords="465,712,657,753"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1profile_1_1_output_processor.html#ab7b1f38be8ebb5293c4d76fc2af69783" title="souffle::profile::Output\lProcessor::getRelTable" alt="" coords="764,661,928,703"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1profile_1_1_output_processor.html#a5b6070ec39c71ee42351be046c36773c" title="souffle::profile::Output\lProcessor::getRulTable" alt="" coords="764,792,928,833"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1profile_1_1_output_processor.html#a5fb24d468ff88ef3788a9dded90f3168" title="souffle::profile::Output\lProcessor::getAtomTable" alt="" coords="755,857,937,899"/>
+<area shape="rect" id="node23" href="$classsouffle_1_1profile_1_1_output_processor.html#aeaa20b7a6c8670b3641c17a087c759f1" title="souffle::profile::Output\lProcessor::getVersions" alt="" coords="762,596,930,637"/>
+<area shape="rect" id="node24" href="$classsouffle_1_1profile_1_1_output_processor.html#a80bdf538be825f022ff1dd2f214be69e" title="souffle::profile::Output\lProcessor::getVersionAtoms" alt="" coords="745,531,947,572"/>
+<area shape="rect" id="node25" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="499,509,622,535"/>
+<area shape="rect" id="node26" href="$namespacesouffle.html#ae8dc819c0300aaaafa4ef9c7cdd84d4d" title="souffle::genJsonRules" alt="" coords="198,610,353,637"/>
+<area shape="rect" id="node27" href="$namespacesouffle_1_1profile_1_1_tools.html#af066460f14a270ae3871cd18a8cf423d" title="souffle::profile::Tools\l::split" alt="" coords="485,795,636,836"/>
+<area shape="rect" id="node29" href="$classsouffle_1_1profile_1_1_tui.html#a097c601742e3b6f0c90f130d5facce6e" title="souffle::profile::Tui\l::genJsonTop" alt="" coords="208,712,343,753"/>
+<area shape="rect" id="node30" href="$classsouffle_1_1profile_1_1_html_generator.html#af10b8de4828e447b7b975e03f8c92086" title="souffle::profile::HtmlGenerator\l::getHtml" alt="" coords="168,1425,383,1467"/>
+<area shape="rect" id="node35" href="$classsouffle_1_1profile_1_1_table.html#ad4cd261b758bcc2bc223b1b8d9aaa94e" title="souffle::profile::Table\l::sort" alt="" coords="200,1625,351,1667"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1profile_1_1_output_processor.html#a5d15f0cedfd1b90f68bc621a16741588" title="souffle::profile::Output\lProcessor::getSubrulTable" alt="" coords="753,727,939,768"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1profile_1_1_table.html#ac99e71fd2b566a2e68a72da291a86aa5" title="souffle::profile::Table\l::addRow" alt="" coords="1001,695,1152,736"/>
+<area shape="rect" id="node28" href="$classsouffle_1_1_table.html#a677b0c069aef136d03cd649e9842010f" title="souffle::Table::size" alt="" coords="492,559,629,586"/>
+<area shape="rect" id="node31" href="$classsouffle_1_1profile_1_1_html_generator.html#a8539f14e0c8e498c55b92ef6c00eedac" title="souffle::profile::HtmlGenerator\l::getFirstHalf" alt="" coords="453,1360,668,1401"/>
+<area shape="rect" id="node33" href="$classsouffle_1_1profile_1_1_html_generator.html#aee3c0cbaa408cdabaa4c3b3bca30218b" title="souffle::profile::HtmlGenerator\l::getSecondHalf" alt="" coords="453,1425,668,1467"/>
+<area shape="rect" id="node32" href="$classsouffle_1_1profile_1_1_html_generator.html#a8861f580cb55da7e505c7306703aab08" title="souffle::profile::HtmlGenerator\l::wrapCss" alt="" coords="739,1360,953,1401"/>
+<area shape="rect" id="node34" href="$classsouffle_1_1profile_1_1_html_generator.html#af009d01c614ec1912e4eaf9cebe5954b" title="souffle::profile::HtmlGenerator\l::wrapJs" alt="" coords="739,1425,953,1467"/>
+<area shape="rect" id="node36" href="$classsouffle_1_1profile_1_1_data_comparator.html#af08f9cf841481752c50d2483027f0a07" title="Sort by non&#45;recursive time. " alt="" coords="447,1724,674,1765"/>
+<area shape="rect" id="node37" href="$classsouffle_1_1profile_1_1_data_comparator.html#a286b840ac5b9694c711f384e3edc0914" title="Sort by recursive time. " alt="" coords="432,1790,689,1817"/>
+<area shape="rect" id="node38" href="$classsouffle_1_1profile_1_1_data_comparator.html#a734aaeddd3c8a7952ac75358d9cdfe5d" title="Sort by copy time. " alt="" coords="431,1841,690,1867"/>
+<area shape="rect" id="node39" href="$classsouffle_1_1profile_1_1_data_comparator.html#ae89cb5ff565853d5eb8c5a6299f8774a" title="Sort by tuple count. " alt="" coords="431,1491,691,1518"/>
+<area shape="rect" id="node40" href="$classsouffle_1_1profile_1_1_data_comparator.html#a76f98b6d43dc528c8f8bddb3746e8269" title="Sort by ID. " alt="" coords="437,1542,685,1569"/>
+<area shape="rect" id="node41" href="$classsouffle_1_1profile_1_1_data_comparator.html#ac520aeef0437cb4a54c57b83bfc7af82" title="Sort by name. " alt="" coords="447,1593,674,1635"/>
+<area shape="rect" id="node42" href="$classsouffle_1_1profile_1_1_data_comparator.html#a48b1c57f77017e9ae5a301526ca4a438" title="Sort by total time. " alt="" coords="447,1659,674,1700"/>
+</map>

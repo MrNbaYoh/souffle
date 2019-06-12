@@ -1,0 +1,8 @@
+<map id="souffle::MaterializeAggregationQueriesTransformer::needsMaterializedRelation" name="souffle::MaterializeAggregationQueriesTransformer::needsMaterializedRelation">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_aggregator.html#a4deb6a8ea2b7d2ef7cd42c9ca668f8a1" title="souffle::AstAggregator\l::getBodyLiterals" alt="" coords="324,5,489,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_variable.html#a298c753e0d5f0ca5c07536ca304d9086" title="souffle::AstVariable\l::getName" alt="" coords="335,71,479,112"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#a384e85f786c545758984fbf4c59e1016" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="325,137,488,163"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="547,13,691,39"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#ab6ba329441fe5a6af5ebb8cde167d66f" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="537,129,700,171"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_node.html#a3726392849b2a07142ba13bbd5fb16d2" title="Obtain a list of all embedded AST child nodes. " alt="" coords="748,129,935,171"/>
+</map>

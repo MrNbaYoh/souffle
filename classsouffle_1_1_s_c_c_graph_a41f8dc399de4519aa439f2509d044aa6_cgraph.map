@@ -1,0 +1,4 @@
+<map id="souffle::SCCGraph::isRecursive" name="souffle::SCCGraph::isRecursive">
+<area shape="rect" id="node2" href="$classsouffle_1_1_precedence_graph.html#aaaa7bc2a66bb69fceff4b8e699c87eda" title="souffle::PrecedenceGraph\l::graph" alt="" coords="200,5,387,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_precedence_graph.html#a08deb0fb1d947bfdef611aae7a6cf453" title="Output precedence graph in graphviz format to a given stream. " alt="" coords="200,71,387,112"/>
+</map>

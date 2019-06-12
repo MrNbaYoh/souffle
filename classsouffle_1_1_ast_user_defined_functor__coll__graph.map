@@ -1,0 +1,7 @@
+<map id="souffle::AstUserDefinedFunctor" name="souffle::AstUserDefinedFunctor">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_functor.html" title="A common base class for AST functors. " alt="" coords="65,978,205,1055"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_argument.html" title="Intermediate representation of an argument. " alt="" coords="51,815,208,921"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_node.html" title="Abstract class for syntactic elements in a Datalog program. " alt="" coords="59,528,199,752"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_src_location.html" title="A class describing a range in an input file. " alt="" coords="56,359,203,465"/>
+<area shape="rect" id="node6" href="$structsouffle_1_1_src_location_1_1_point.html" title="A class locating a single point in an input file. " alt="" coords="5,160,152,281"/>
+</map>

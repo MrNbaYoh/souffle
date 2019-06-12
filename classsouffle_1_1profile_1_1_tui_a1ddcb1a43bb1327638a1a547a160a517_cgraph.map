@@ -1,0 +1,13 @@
+<map id="souffle::profile::Tui::genJsonRelations" name="souffle::profile::Tui::genJsonRelations">
+<area shape="rect" id="node2" href="$namespacesouffle_1_1profile_1_1_tools.html#a88c43a221e64a3caa215693a871928ff" title="souffle::profile::Tools\l::cleanJsonOut" alt="" coords="211,103,362,144"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1profile_1_1_output_processor.html#a00fc18c81242ba0ba6a36de106a3c33b" title="souffle::profile::Output\lProcessor::getProgramRun" alt="" coords="191,168,383,209"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1profile_1_1_table.html#ad5808507021b6f9cdd5641aac825f29e" title="souffle::profile::Table\l::getRows" alt="" coords="211,233,362,275"/>
+<area shape="rect" id="node12" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="225,299,348,326"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1profile_1_1_output_processor.html#a5fb24d468ff88ef3788a9dded90f3168" title="souffle::profile::Output\lProcessor::getAtomTable" alt="" coords="441,5,623,47"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1profile_1_1_output_processor.html#ab7b1f38be8ebb5293c4d76fc2af69783" title="souffle::profile::Output\lProcessor::getRelTable" alt="" coords="450,71,614,112"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1profile_1_1_output_processor.html#a5b6070ec39c71ee42351be046c36773c" title="souffle::profile::Output\lProcessor::getRulTable" alt="" coords="450,136,614,177"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1profile_1_1_output_processor.html#a5d15f0cedfd1b90f68bc621a16741588" title="souffle::profile::Output\lProcessor::getSubrulTable" alt="" coords="439,201,625,243"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1profile_1_1_output_processor.html#a80bdf538be825f022ff1dd2f214be69e" title="souffle::profile::Output\lProcessor::getVersionAtoms" alt="" coords="431,267,633,308"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1profile_1_1_output_processor.html#aeaa20b7a6c8670b3641c17a087c759f1" title="souffle::profile::Output\lProcessor::getVersions" alt="" coords="448,332,616,373"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1profile_1_1_table.html#ac99e71fd2b566a2e68a72da291a86aa5" title="souffle::profile::Table\l::addRow" alt="" coords="681,169,832,211"/>
+</map>

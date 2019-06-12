@@ -1,0 +1,6 @@
+<map id="souffle::AstClause::isFact" name="souffle::AstClause::isFact">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_clause.html#af474f0a79851dc870309c1eac1db4005" title="Return the number of elements in the body of the Clause. " alt="" coords="203,5,339,47"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#a384e85f786c545758984fbf4c59e1016" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="189,71,352,98"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#ab6ba329441fe5a6af5ebb8cde167d66f" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="400,64,563,105"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_node.html#a3726392849b2a07142ba13bbd5fb16d2" title="Obtain a list of all embedded AST child nodes. " alt="" coords="611,64,797,105"/>
+</map>

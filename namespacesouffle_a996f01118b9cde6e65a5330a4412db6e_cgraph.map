@@ -1,0 +1,6 @@
+<map id="souffle::getRecords" name="souffle::getRecords">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a9726f0afbc98fa9807f0ba3bff93ba56" title="Obtains a list of all records referenced within the AST rooted by the given root node. " alt="" coords="196,13,339,39"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#a384e85f786c545758984fbf4c59e1016" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="387,13,549,39"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#ab6ba329441fe5a6af5ebb8cde167d66f" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="597,5,760,47"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_node.html#a3726392849b2a07142ba13bbd5fb16d2" title="Obtain a list of all embedded AST child nodes. " alt="" coords="808,5,995,47"/>
+</map>

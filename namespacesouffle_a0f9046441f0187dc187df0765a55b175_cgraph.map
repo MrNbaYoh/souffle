@@ -1,0 +1,20 @@
+<map id="souffle::separateDBs" name="souffle::separateDBs">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_program.html#a29a37490ca76595a9a8403d3acac8db8" title="append a new clause to this program – after parsing " alt="" coords="231,5,379,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_program.html#aa49e46a4c01a178b28dde2079f1881b8" title="appends a new relation to this program – after parsing " alt="" coords="231,71,379,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_clause.html#aef9cb574a067db73c83fd9c9f63d297f" title="Creates a clone of this AST sub&#45;structure. " alt="" coords="467,33,603,75"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#a81628ff0103c9295bd4368d3471aa690" title="souffle::createNewRelation" alt="" coords="210,187,401,214"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#a70f903ef77f947a3123c891794322534" title="souffle::nextSrcLoc" alt="" coords="464,267,607,294"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_ast_clause.html#ae9a1e5dd0a7c9781e23a7d9ececd6ae5" title="Return the atom that represents the head of the clause. " alt="" coords="237,289,373,331"/>
+<area shape="rect" id="node16" href="$namespacesouffle.html#aeb526d569fc848583a59613102f660d3" title="souffle::getNextEdbName" alt="" coords="212,355,399,382"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1_ast_program.html#a60fcb7d3a21a06be7b48f5849917a22b" title="Get all relations in the program. " alt="" coords="231,407,379,448"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_ast_atom.html#a92eeca331e34825aa9e7bcaabb812e56" title="Set atom name. " alt="" coords="208,473,403,499"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_node.html#a68e6e13cb8d1510e47087447a89cae83" title="Return source location of the AstNode. " alt="" coords="863,99,1061,126"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_relation.html#adf9ccc5b4924918ea95bd64898196b66" title="Obtains a list of the contained attributes. " alt="" coords="464,151,607,192"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#aee69f1913bc5a4f49deeca2b10c8323b" title="souffle::updateQualifier" alt="" coords="451,217,620,243"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="669,150,813,177"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ast_relation.html#a15a48bcd5bcf6eebbc4bb4ef16e52685" title="Return qualifier associated with this relation. " alt="" coords="670,201,813,243"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ast_relation.html#a14022ab48f6ce4af0ba0ad7297b269dd" title="Get representation for this relation. " alt="" coords="668,267,815,308"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_ast_relation.html#a9527d30091d612f497c769ca3e87548f" title="Set qualifier associated with this relation. " alt="" coords="670,332,813,373"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ast_relation.html#a6ae505289ecfc8e40c9f4e47689f5ee8" title="Return the name of the relation. " alt="" coords="891,332,1033,373"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_ast_program.html#ae4e787ea4d338524ea6b346d5dedc290" title="Find and return the relation in the program given its name. " alt="" coords="461,348,609,389"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="souffle::ChoiceConversionTransformer::rewriteScan" name="souffle::ChoiceConversionTransformer::rewriteScan">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_operation.html#a39e8b29bf74f410018e8a951696ebc70" title="Create a clone (i.e. " alt="" coords="265,5,429,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_nested_operation.html#aecd9e1a082f7ad54bea98bd6a6825352" title="Get nested operation. " alt="" coords="242,71,453,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_nested_operation.html#ae6a3beff0632964944db3ffbb12fb88e" title="Get profile text. " alt="" coords="242,136,453,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_relation_operation.html#a64ab83f16d939b4088b572b7dfb37067" title="Get search relation. " alt="" coords="240,201,455,243"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_tuple_operation.html#a5ba589d8d0941f07eb19ae77f56e3357" title="Get identifier. " alt="" coords="249,267,445,308"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#ad0e8debde5608979e041dd30e044612a" title="Valid C++ identifier, note that this does not ensure the uniqueness of identifiers returned..." alt="" coords="521,333,647,359"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ram_tuple_element.html#ad8ebdadf86fff84e6aca2cf34b1935f4" title="Get identifier. " alt="" coords="254,384,441,425"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#a384e85f786c545758984fbf4c59e1016" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="266,450,429,477"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#ab6ba329441fe5a6af5ebb8cde167d66f" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="503,443,665,484"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ast_node.html#a3726392849b2a07142ba13bbd5fb16d2" title="Obtain a list of all embedded AST child nodes. " alt="" coords="713,443,900,484"/>
+</map>

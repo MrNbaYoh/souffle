@@ -1,0 +1,26 @@
+<map id="souffle::CollapseFiltersTransformer::collapseFilters" name="souffle::CollapseFiltersTransformer::collapseFilters">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_transformer.html#a09ebbf557165cbdebf5d95d5124f709b" title="apply the transformer to a translation unit &#160;translationUnit that will be transformed. " alt="" coords="278,299,455,340"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_ram_abstract_conditional.html#a786fddb44fd2625055028fab0c400384" title="Apply the mapper to all child nodes. " alt="" coords="253,479,480,520"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1_ram_operation.html#a39e8b29bf74f410018e8a951696ebc70" title="Create a clone (i.e. " alt="" coords="285,544,449,585"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_ram_nested_operation.html#aecd9e1a082f7ad54bea98bd6a6825352" title="Get nested operation. " alt="" coords="261,609,472,651"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_ram_nested_operation.html#ae6a3beff0632964944db3ffbb12fb88e" title="Get profile text. " alt="" coords="261,675,472,716"/>
+<area shape="rect" id="node21" href="$namespacesouffle.html#a486f7f441cd86b3a5baedd7948dba363" title="Creates a node mapper based on a corresponding lambda expression. " alt="" coords="248,741,485,767"/>
+<area shape="rect" id="node22" href="$namespacesouffle.html#acfbc5580e80cdfb7a55c77ec4c576978" title="Convert list of conditions to a conjunction. " alt="" coords="294,791,439,818"/>
+<area shape="rect" id="node23" href="$namespacesouffle.html#a384e85f786c545758984fbf4c59e1016" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="285,842,448,869"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_transformer.html#a10a0d3a003094ad4a8de96b968d26e29" title="transform the translation unit / used by apply &#160;translationUnit that will be transformed. " alt="" coords="550,5,727,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_translation_unit.html#adc388ca999ac2b1a8b584f517e60d930" title="souffle::RamTranslationUnit\l::invalidateAnalyses" alt="" coords="541,71,736,112"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_translation_unit.html#af537996409b1095c05e624f52d8eab70" title="souffle::RamTranslationUnit\l::getProgram" alt="" coords="541,136,736,177"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_translation_unit.html#aa12b4d374b978ea3dea421c11fd55478" title="souffle::RamTranslationUnit\l::getDebugReport" alt="" coords="541,201,736,243"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_debug_report.html#a4e6fe0a6d9854ce570d008772daa9aba" title="souffle::DebugReport\l::addSection" alt="" coords="561,267,716,308"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_debug_reporter.html#ae6706724f0ac529fd011e0309d8899b0" title="Generate a debug report section for code (preserving formatting), with the given id and title..." alt="" coords="555,332,723,373"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_ram_transformer.html#ac8533b87fb70032e240b5fc8c40dea33" title="get name of the transformer &#160;flag reporting whether the RAM program has changed " alt="" coords="550,397,727,439"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ram_translation_unit.html#a34cc65ccb9f56403c617ed235f8100ab" title="souffle::RamTranslationUnit\l::getErrorReport" alt="" coords="541,463,736,504"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_error_report.html#abf08564b0cca7ee2f64cb6ba88ea6f3b" title="souffle::ErrorReport\l::getNumErrors" alt="" coords="567,528,711,569"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_debug_report_section.html#af5d32516978098bf5bf4df8b0606e2c1" title="souffle::DebugReportSection\l::DebugReportSection" alt="" coords="792,332,995,373"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_debug_report_section.html#aba41933dd6d0ff275341ca3fc651b901" title="Outputs the HTML code for the index to the given stream, consisting of a link to the section body fol..." alt="" coords="1043,273,1245,315"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_debug_report_section.html#aafbec062168aa2e7e09bf774f7ef6c42" title="Outputs the HTML code for the title header to the given stream. " alt="" coords="1293,361,1496,403"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_debug_report_section.html#a5afeb8a8592a651aacf9fa1e08e9ac51" title="Outputs the HTML code for the content of the section to the given stream, consisting of the title hea..." alt="" coords="1043,391,1245,432"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_ram_nested_operation.html#aea45ac748bab6719f1f066383bf73bc2" title="Apply the mapper to all child nodes. " alt="" coords="533,593,744,635"/>
+<area shape="rect" id="node24" href="$namespacesouffle.html#ab6ba329441fe5a6af5ebb8cde167d66f" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="557,835,720,876"/>
+<area shape="rect" id="node25" href="$classsouffle_1_1_ast_node.html#a3726392849b2a07142ba13bbd5fb16d2" title="Obtain a list of all embedded AST child nodes. " alt="" coords="800,835,987,876"/>
+</map>

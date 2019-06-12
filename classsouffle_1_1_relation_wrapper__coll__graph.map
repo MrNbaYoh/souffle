@@ -1,0 +1,5 @@
+<map id="souffle::RelationWrapper&lt; id, RelType, TupleType, Arity &gt;" name="souffle::RelationWrapper&lt; id, RelType, TupleType, Arity &gt;">
+<area shape="rect" id="node2" href="$classsouffle_1_1_relation.html" title="Object&#45;oriented wrapper class for Souffle&#39;s templatized relations. " alt="" coords="5,189,153,443"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_symbol_table.html" title="Global pool of re&#45;usable strings. " alt="" coords="543,189,706,443"/>
+<area shape="rect" id="node8" href="$structsouffle_1_1_lock.html" title="A small utility class for implementing simple locks. " alt="" coords="574,5,675,127"/>
+</map>

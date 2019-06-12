@@ -1,0 +1,5 @@
+<map id="souffle::unionContainsSymbol" name="souffle::unionContainsSymbol">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_type.html#a988b286aa4acd79538540d1705483728" title="Obtains the name of this type. " alt="" coords="264,5,453,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_program.html#a0fe8485ff00fc379f6ff3d61117e96ba" title="Obtains the type with the given name. " alt="" coords="285,57,433,98"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_union_type.html#a2ca7bed6c742a9331a7f521508e08c2b" title="Obtains a reference to the list element types. " alt="" coords="279,122,438,163"/>
+</map>

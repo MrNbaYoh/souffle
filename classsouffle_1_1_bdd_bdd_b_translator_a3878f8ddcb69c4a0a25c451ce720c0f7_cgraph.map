@@ -1,0 +1,5 @@
+<map id="souffle::BddBddBTranslator::visitFunctor" name="souffle::BddBddBTranslator::visitFunctor">
+<area shape="rect" id="node2" href="$namespacesouffle.html#ac584420d8f1d74575e27e65a4ca2a311" title="souffle::getSymbolForFunctorOp" alt="" coords="283,5,509,32"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="335,56,457,83"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_unsupported_construct_exception.html#ab812ead9bc877acc64a35d4bad8ee60b" title="souffle::UnsupportedConstruct\lException::UnsupportedConstructException" alt="" coords="247,107,545,149"/>
+</map>

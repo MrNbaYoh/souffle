@@ -1,0 +1,6 @@
+<map id="souffle::SparseDisjointSet&lt; SparseDomain &gt;" name="souffle::SparseDisjointSet&lt; SparseDomain &gt;">
+<area shape="rect" id="node3" href="$classsouffle_1_1_random_insert_piggy_list.html" title="{souffle::RandomInsertPiggy\lList\&lt; SparseDomain \&gt;\n||+ clear()\l+ freeList()\l+ get()\l+ getBlock()\l+ insertAt()\l+ operator=()\l+ operator=()\l+ RandomInsertPiggyList()\l+ RandomInsertPiggyList()\l+ RandomInsertPiggyList()\l+ RandomInsertPiggyList()\l+ size()\l+ ~RandomInsertPiggyList()\l}" alt="" coords="204,248,407,516"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_piggy_list.html" title="{souffle::PiggyList\l\&lt; std::atomic\&lt; block_t \&gt; \&gt;\n||+ append()\l+ begin()\l+ clear()\l+ createNode()\l+ end()\l+ freeList()\l+ get()\l+ getBlock()\l+ operator=()\l+ PiggyList()\l+ PiggyList()\l+ PiggyList()\l+ PiggyList()\l+ size()\l+ ~PiggyList()\l}" alt="" coords="718,233,917,531"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_spin_lock.html" title="A &#39;sequential&#39; non&#45;locking implementation for a spin lock. " alt="" coords="734,5,863,127"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_disjoint_set.html" title="Structure that emulates a Disjoint Set, i.e. " alt="" coords="747,593,888,891"/>
+</map>

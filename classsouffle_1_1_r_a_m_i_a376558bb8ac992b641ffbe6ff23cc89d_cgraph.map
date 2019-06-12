@@ -1,0 +1,51 @@
+<map id="souffle::RAMI::executeMain" name="souffle::RAMI::executeMain">
+<area shape="rect" id="node2" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="1057,181,1215,208"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_signal_handler.html#a73c76d5c0d6165f78d15ae12d86634f7" title="souffle::SignalHandler\l::enableLogging" alt="" coords="267,1912,428,1954"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_r_a_m_i.html#ac29340c2226594951825bd2a925e8370" title="Evaluate statement. " alt="" coords="263,1242,431,1269"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ram_relation.html#aff204de1a828d72e6e74337be4885ddd" title="Get name. " alt="" coords="1061,711,1211,752"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_ram_nested_operation.html#ae6a3beff0632964944db3ffbb12fb88e" title="Get profile text. " alt="" coords="787,770,997,811"/>
+<area shape="rect" id="node34" href="$classsouffle_1_1_ram_relation_statement.html#a93110734f0f992a2f9b1a1d492cef3ad" title="Get RAM relation. " alt="" coords="509,2016,729,2058"/>
+<area shape="rect" id="node37" href="$classsouffle_1_1_signal_handler.html#ab7eed040c4ebc493e77f60046e820b6c" title="souffle::SignalHandler\l::instance" alt="" coords="538,2082,699,2123"/>
+<area shape="rect" id="node38" href="$classsouffle_1_1_profile_event_singleton.html#adf94d78a9d87272b42a1fe4bc31f918d" title="get instance " alt="" coords="515,2147,722,2188"/>
+<area shape="rect" id="node39" href="$classsouffle_1_1_profile_event_singleton.html#a09d8e99d145207286edb972d51d715d6" title="create quantity event " alt="" coords="515,2212,722,2254"/>
+<area shape="rect" id="node40" href="$namespacesouffle.html#a384e85f786c545758984fbf4c59e1016" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="537,2278,700,2305"/>
+<area shape="rect" id="node41" href="$classsouffle_1_1_ram_program.html#a700bc589281fd3f2478b074c3134d450" title="Get main program. " alt="" coords="269,1978,425,2019"/>
+<area shape="rect" id="node42" href="$classsouffle_1_1_ram_translation_unit.html#af537996409b1095c05e624f52d8eab70" title="souffle::RamTranslationUnit\l::getProgram" alt="" coords="250,2043,445,2084"/>
+<area shape="rect" id="node43" href="$namespacesouffle.html#a052d35be8e032f425317fd1b6d7e487a" title="souffle::main" alt="" coords="840,80,944,106"/>
+<area shape="rect" id="node44" href="$classsouffle_1_1_profile_event_singleton.html#a7f20bfda94420cb8084216cd14766fb2" title="create config record " alt="" coords="244,2108,451,2150"/>
+<area shape="rect" id="node45" href="$classsouffle_1_1_profile_event_singleton.html#ac20c3d73264b8c412aa6d1e77630a416" title="create time event " alt="" coords="244,2174,451,2215"/>
+<area shape="rect" id="node46" href="$classsouffle_1_1_signal_handler.html#a24026472ab9eeaecaafd4bd20b7af11f" title="souffle::SignalHandler\l::reset" alt="" coords="267,2239,428,2280"/>
+<area shape="rect" id="node47" href="$classsouffle_1_1_signal_handler.html#a36fa4f2a7027a4d5f93acc7b848f9f41" title="souffle::SignalHandler::set" alt="" coords="253,2305,442,2332"/>
+<area shape="rect" id="node48" href="$classsouffle_1_1_profile_event_singleton.html#a637233c2f4a98aa20fe59e361516692d" title="souffle::ProfileEventSingleton\l::setOutputFile" alt="" coords="244,2356,451,2398"/>
+<area shape="rect" id="node49" href="$classsouffle_1_1_profile_event_singleton.html#acfc7f47cbc27e63c3352930b59c626cd" title="Start timer. " alt="" coords="244,2422,451,2463"/>
+<area shape="rect" id="node50" href="$classsouffle_1_1_profile_event_singleton.html#a3141faaa2b8a59c75655c638698e1937" title="Stop timer. " alt="" coords="244,2487,451,2528"/>
+<area shape="rect" id="node5" href="$structsouffle_1_1_lock.html#a0fe2edd3ac13a141851fa021716bae04" title="souffle::Lock::acquire" alt="" coords="541,829,697,856"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_r_a_m_i.html#aca996b9dc91f25c52c30eeecba5592e4" title="souffle::RAMI::createRelation" alt="" coords="518,880,719,906"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_r_a_m_i.html#a36ffe567d40b58e744fa641fbba70d84" title="Drop relation. " alt="" coords="797,1368,987,1394"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_r_a_m_i.html#a7bbe0b804dd0cc45417f435a1c076276" title="Get relation. " alt="" coords="1045,1212,1227,1238"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_r_a_m_i.html#adc39d6d50a4876616b61b70f21ad6871" title="Evaluate conditions. " alt="" coords="807,836,977,862"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_r_a_m_i.html#ab05d6f1b1510a08427e8a3c56330fdc4" title="Evaluate value. " alt="" coords="1054,886,1218,913"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_r_a_m_i.html#a612f00a4bc2a4fcc2cef1893aca05fde" title="Evaluate operation. " alt="" coords="541,1032,696,1058"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_r_a_m_i_context.html#a11b9511af62797d8c3a0adfe8864faed" title="souffle::RAMIContext\l::getArguments" alt="" coords="816,938,968,979"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ram_relation.html#a4b8c28fa5818f930e0d3149cd4a50b8b" title="souffle::RamRelation\l::getArity" alt="" coords="817,1106,967,1147"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_r_a_m_i.html#a8a00ac2c1b3eb1f67524bb339bfcae0d" title="Get Iteration Number. " alt="" coords="800,1171,984,1212"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_r_a_m_i_context.html#a5b92a823d7c023ce1f0b52f04d61c8b1" title="souffle::RAMIContext\l::getReturnErrors" alt="" coords="816,1236,968,1278"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1_r_a_m_i_context.html#a93a9f47e55755b518d20fa64c9dcea50" title="souffle::RAMIContext\l::getReturnValues" alt="" coords="816,1302,968,1343"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_r_a_m_i_relation.html#af78dba4f385eb3cddf7d25843a0728e7" title="Extend tuple. " alt="" coords="543,1520,695,1562"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_ram_relation.html#a218ff692979f9dc4dc769db4c2d63428" title="souffle::RamRelation\l::getAttributeTypeQualifiers" alt="" coords="521,1586,716,1627"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1_ram_loop.html#a55f00cba94b8aa938b1826356125407d" title="Get loop body. " alt="" coords="522,1652,715,1678"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1_ram_stratum.html#ad8cc52272f3adb90f8282baaa7aafbe5" title="Get stratum body. " alt="" coords="541,1703,696,1744"/>
+<area shape="rect" id="node23" href="$classsouffle_1_1_ram_exit.html#a16ea2112f6604811f157a148070855ef" title="Get exit condition. " alt="" coords="512,1769,725,1796"/>
+<area shape="rect" id="node24" href="$classsouffle_1_1_ram_bin_relation_statement.html#a1c3920866a5815faeaa3eeeeaf4d79e4" title="Get first relation. " alt="" coords="499,1820,739,1862"/>
+<area shape="rect" id="node25" href="$classsouffle_1_1_ram_stratum.html#ae18088a4993b38f5b0578a2835b0bca6" title="Get stratum index. " alt="" coords="541,1886,696,1927"/>
+<area shape="rect" id="node26" href="$classsouffle_1_1_ram_index_analysis.html#a475526dcb15efeaa12e8b561494d74e1" title="get the minimal index cover for a relation " alt="" coords="525,1951,712,1992"/>
+<area shape="rect" id="node27" href="$classsouffle_1_1_i_o_system.html#ae1e53d74f6e822a2df86eabc69cdcdce" title="souffle::IOSystem::\lgetInstance" alt="" coords="547,283,690,324"/>
+<area shape="rect" id="node28" href="$classsouffle_1_1_ram_abstract_load_store.html#af1ffb3472b6f7c6c56d8a75c7a52c2a1" title="Get load directives. " alt="" coords="525,348,712,390"/>
+<area shape="rect" id="node29" href="$classsouffle_1_1_ram_abstract_log.html#a199291d51a8d090f8edd0c8905121fbd" title="Get logging message. " alt="" coords="529,414,708,455"/>
+<area shape="rect" id="node30" href="$classsouffle_1_1_ram_log_size.html#a61429b1b930a631bff379870471d0892" title="Get logging message. " alt="" coords="543,479,694,520"/>
+<area shape="rect" id="node31" href="$classsouffle_1_1_ram_query.html#a4afbbdc9416bd8daa186494cbc11ea34" title="Get RAM operation. " alt="" coords="545,544,692,586"/>
+<area shape="rect" id="node32" href="$namespacesouffle.html#a1f3d2bbfbcd58c76463920d43a29b3d0" title="Obtains a reference to the lock synchronizing output operations. " alt="" coords="535,610,702,637"/>
+<area shape="rect" id="node33" href="$classsouffle_1_1_i_o_system.html#ab905b29f99e5e93728d69f489c488c70" title="Return a new ReadStream. " alt="" coords="547,662,690,703"/>
+<area shape="rect" id="node35" href="$classsouffle_1_1_ram_bin_relation_statement.html#a6e574de80067e6beb5cc2b225daf535e" title="Get second relation. " alt="" coords="499,1235,739,1276"/>
+<area shape="rect" id="node36" href="$classsouffle_1_1_ram_merge.html#a383e7f4151d125e66fceb924ad17da06" title="Get source relation. " alt="" coords="544,1403,693,1444"/>
+</map>

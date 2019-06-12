@@ -1,0 +1,19 @@
+<map id="souffle::profile::EventProcessor" name="souffle::profile::EventProcessor">
+<area shape="rect" id="node2" href="$classsouffle_1_1profile_1_1_config_processor.html" title="Config entry processor. " alt="" coords="5,153,164,259"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1profile_1_1_frequency_atom_processor.html" title="Frequency Atom Processor. " alt="" coords="189,153,399,259"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1profile_1_1_non_recursive_relation_number_processor.html" title="Non&#45;Recursive Relation Number Profile Event Processor. " alt="" coords="423,145,648,267"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1profile_1_1_non_recursive_relation_timing_processor.html" title="Non&#45;Recursive Relation Number Profile Event Processor. " alt="" coords="672,145,887,267"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1profile_1_1_non_recursive_rule_number_processor.html" title="Non&#45;Recursive Rule Number Profile Event Processor. " alt="" coords="911,153,1186,259"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1profile_1_1_non_recursive_rule_timing_processor.html" title="Non&#45;Recursive Rule Timing Profile Event Processor. " alt="" coords="1210,153,1474,259"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1profile_1_1_program_resource_utilisation_processor.html" title="Program Resource Utilisation Event Processor. " alt="" coords="1498,145,1711,267"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1profile_1_1_program_runtime_processor.html" title="Program Run Event Processor. " alt="" coords="1736,153,1953,259"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1profile_1_1_program_timepoint_processor.html" title="Program Run Event Processor. " alt="" coords="1977,153,2205,259"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1profile_1_1_recursive_relation_copy_timing_processor.html" title="Recursive Relation Copy Timing Profile Event Processor. " alt="" coords="2230,145,2451,267"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1profile_1_1_recursive_relation_number_processor.html" title="Recursive Relation Timing Profile Event Processor. " alt="" coords="2475,153,2747,259"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1profile_1_1_recursive_relation_timing_processor.html" title="Recursive Relation Timing Profile Event Processor. " alt="" coords="2772,153,3035,259"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1profile_1_1_recursive_rule_number_processor.html" title="Recursive Rule Number Profile Event Processor. " alt="" coords="3059,153,3307,259"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1profile_1_1_recursive_rule_timing_processor.html" title="Recursive Rule Timing Profile Event Processor. " alt="" coords="3332,153,3571,259"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1profile_1_1_relation_i_o_timing_processor.html" title="Recursive Relation Copy Timing Profile Event Processor. " alt="" coords="3595,153,3809,259"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1profile_1_1_relation_reads_processor.html" title="Reads Processor. " alt="" coords="3833,153,4032,259"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1profile_1_1_text_processor.html" title="Text entry processor. " alt="" coords="4056,160,4263,252"/>
+</map>

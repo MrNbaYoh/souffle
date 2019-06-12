@@ -1,0 +1,5 @@
+<map id="souffle::AstAggregator::addBodyLiteral" name="souffle::AstAggregator::addBodyLiteral">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_argument.html#a5f13087d708e0117ec3a913c7ffc3ad8" title="Create clone. " alt="" coords="431,5,588,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_argument.html#a68aeacb7ff4dd0ca8d88405091886f3b" title="Obtains a list of all embedded child nodes. " alt="" coords="222,35,379,76"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_node.html#a118aba48ddc9006152aac63f08e0ff01" title="Output to a given output stream. " alt="" coords="219,101,383,127"/>
+</map>

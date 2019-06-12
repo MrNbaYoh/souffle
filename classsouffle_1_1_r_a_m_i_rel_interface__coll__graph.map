@@ -1,0 +1,8 @@
+<map id="souffle::RAMIRelInterface" name="souffle::RAMIRelInterface">
+<area shape="rect" id="node2" href="$classsouffle_1_1_relation.html" title="Object&#45;oriented wrapper class for Souffle&#39;s templatized relations. " alt="" coords="55,836,203,1089"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_r_a_m_i_relation.html" title="RAMI Relation. " alt="" coords="819,851,1030,1075"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_symbol_table.html" title="Global pool of re&#45;usable strings. " alt="" coords="227,836,390,1089"/>
+<area shape="rect" id="node8" href="$structsouffle_1_1_lock.html" title="A small utility class for implementing simple locks. " alt="" coords="369,505,470,627"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_min_index_selection.html" title="computes the minimal index cover for a relation in a RAM Program. " alt="" coords="675,388,876,744"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_max_matching.html" title="Computes a maximum matching with Hopcroft&#45;Karp algorithm " alt="" coords="953,160,1117,325"/>
+</map>

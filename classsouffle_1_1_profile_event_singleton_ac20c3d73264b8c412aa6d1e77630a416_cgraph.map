@@ -1,0 +1,5 @@
+<map id="souffle::ProfileEventSingleton::makeTimeEvent" name="souffle::ProfileEventSingleton::makeTimeEvent">
+<area shape="rect" id="node2" href="$classsouffle_1_1profile_1_1_event_processor_singleton.html#a3a6564631bccb96da84ccad7edfe4dc9" title="get instance " alt="" coords="260,5,479,47"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#a1c65551944c7ecf6f44ec851b49bdbb0" title="souffle::now" alt="" coords="321,71,418,98"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1profile_1_1_event_processor_singleton.html#a537033bada68e176ff0b09239acd21fe" title="process a profile event " alt="" coords="260,123,479,164"/>
+</map>

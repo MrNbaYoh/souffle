@@ -1,0 +1,5 @@
+<map id="souffle::RAMIRelation" name="souffle::RAMIRelation">
+<area shape="rect" id="node3" href="$structsouffle_1_1_lock.html" title="A small utility class for implementing simple locks. " alt="" coords="201,505,302,627"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_min_index_selection.html" title="computes the minimal index cover for a relation in a RAM Program. " alt="" coords="327,388,528,744"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_max_matching.html" title="Computes a maximum matching with Hopcroft&#45;Karp algorithm " alt="" coords="605,160,769,325"/>
+</map>

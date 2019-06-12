@@ -1,0 +1,12 @@
+<map id="souffle::AstSemanticChecker::checkUnionType" name="souffle::AstSemanticChecker::checkUnionType">
+<area shape="rect" id="node2" href="$classsouffle_1_1_error_report.html#a699dc9231cef74ac54573e3c79de7143" title="Adds an error with the given message and location. " alt="" coords="295,5,439,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_type.html#a988b286aa4acd79538540d1705483728" title="Obtains the name of this type. " alt="" coords="526,114,715,141"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_node.html#a68e6e13cb8d1510e47087447a89cae83" title="Return source location of the AstNode. " alt="" coords="268,325,467,351"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_program.html#a0fe8485ff00fc379f6ff3d61117e96ba" title="Obtains the type with the given name. " alt="" coords="547,165,695,207"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_union_type.html#a2ca7bed6c742a9331a7f521508e08c2b" title="Obtains a reference to the list element types. " alt="" coords="541,231,700,272"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#a7f93cdf21f1a24b593da6691dc892828" title="A generic factory for constraints of the form. " alt="" coords="320,375,415,402"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="306,426,429,453"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#a2ef32d11f84fdf277bbc04186ce83619" title="souffle::unionContainsNumber" alt="" coords="260,122,475,149"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#ab349f07b7bd38554775b0f2291977f0e" title="souffle::unionContainsSymbol" alt="" coords="262,173,473,199"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_diagnostic_message.html#ad3fd6ab90856d9cdd9bbba3140440362" title="souffle::DiagnosticMessage\l::DiagnosticMessage" alt="" coords="523,5,719,47"/>
+</map>

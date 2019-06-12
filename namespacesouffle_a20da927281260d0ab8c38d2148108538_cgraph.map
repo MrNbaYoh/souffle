@@ -1,0 +1,13 @@
+<map id="souffle::addIgnoredRelations" name="souffle::addIgnoredRelations">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a0ad864a641b2c6a407647cd6c60ef196" title="souffle::addBackwardDependencies" alt="" coords="255,115,503,141"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#a6f53082a60ed5593022bde81dc619ac9" title="souffle::contains" alt="" coords="587,5,713,32"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_program.html#a60fcb7d3a21a06be7b48f5849917a22b" title="Get all relations in the program. " alt="" coords="576,225,724,266"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="299,216,458,243"/>
+<area shape="rect" id="node12" href="$namespacesouffle.html#a673608e9453179d30f6607384f54463a" title="Splits a string given a delimiter. " alt="" coords="311,267,447,293"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_atom.html#adfaa949dc3e89fa2dc25981963ea5752" title="Return the name of this atom. " alt="" coords="552,56,748,83"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_relation_identifier.html#acda6f50de4882f69fcbc70f7432bca75" title="souffle::AstRelationIdentifier\l::getName" alt="" coords="551,107,749,149"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#a384e85f786c545758984fbf4c59e1016" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="569,173,731,200"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="831,115,926,141"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#ab6ba329441fe5a6af5ebb8cde167d66f" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="797,166,960,207"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_node.html#a3726392849b2a07142ba13bbd5fb16d2" title="Obtain a list of all embedded AST child nodes. " alt="" coords="1008,166,1195,207"/>
+</map>

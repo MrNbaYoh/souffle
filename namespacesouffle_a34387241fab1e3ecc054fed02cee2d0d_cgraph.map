@@ -1,0 +1,11 @@
+<map id="souffle::getSipsFunction" name="souffle::getSipsFunction">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_atom.html#aad70ba585b02eac7a0038f8cdcee2c18" title="Return the arity of the atom. " alt="" coords="240,5,427,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_variable.html#a298c753e0d5f0ca5c07536ca304d9086" title="souffle::AstVariable\l::getName" alt="" coords="530,54,674,95"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#a1c608d44d9d95373b73915fd555eeb60" title="souffle::isProposition" alt="" coords="257,107,410,133"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#a84b8ff6e096476fd6097c05b4eb12386" title="Counts the number of bound arguments in a given atom. " alt="" coords="227,157,440,184"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#a384e85f786c545758984fbf4c59e1016" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="521,200,683,227"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_atom.html#a11ba399d723b5f1135a35e47e51e1bad" title="Provides access to the list of arguments of this atom. " alt="" coords="488,137,716,164"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="773,137,917,164"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#ab6ba329441fe5a6af5ebb8cde167d66f" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="764,193,927,234"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_node.html#a3726392849b2a07142ba13bbd5fb16d2" title="Obtain a list of all embedded AST child nodes. " alt="" coords="975,193,1161,234"/>
+</map>

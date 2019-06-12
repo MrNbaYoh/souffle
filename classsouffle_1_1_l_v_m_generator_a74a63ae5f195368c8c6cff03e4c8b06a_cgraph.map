@@ -1,0 +1,6 @@
+<map id="souffle::LVMGenerator::visitUserDefinedOperator" name="souffle::LVMGenerator::visitUserDefinedOperator">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_abstract_operator.html#acef7493e3b49016cea0136488f354ef0" title="Get number of arguments. " alt="" coords="257,5,469,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_abstract_operator.html#a1d2f51218b07a82c24f819af3ec05593" title="Get i&#45;th argument value. " alt="" coords="257,71,469,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_user_defined_operator.html#a698b19582a698f3f24a5145d79c9a609" title="Get operator name. " alt="" coords="244,136,481,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_user_defined_operator.html#ab098adbd1cf492ed22a06b42d86e2462" title="Get types of arguments. " alt="" coords="244,201,481,243"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="souffle::RAMIRelation::getIndex" name="souffle::RAMIRelation::getIndex">
+<area shape="rect" id="node2" href="$classsouffle_1_1_r_a_m_i_relation.html#a46062b83cb3231baecc78d1fd0e66837" title="get index for a given order. " alt="" coords="223,5,375,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_min_index_selection.html#a97816e75d99d7d7cfdff2a7912953e6f" title="Get index for a search " alt="" coords="205,71,392,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_r_a_m_i_relation.html#a6251c05818542a12e9b2a461b3847728" title="Obtains a full index&#45;key for this relation. " alt="" coords="223,136,375,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_r_a_m_i_relation.html#a13b2a074a151d82d855cafd3ccc5c9c6" title="Get arity of relation. " alt="" coords="440,136,592,177"/>
+</map>
